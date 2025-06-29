@@ -63,8 +63,6 @@ If you are using Visual Studio Code:
 ## 6. Run the Notebook
 
 - The repository includes pre-generated data. You do **not** need to rerun cells that regenerate data.
-- You can directly open the notebooks and begin your analysis.
+- You can directly open the notebooks and begin your analysis or plot results.
 
 ---
-
-Let me know if you’d like to add a License, Citation, or Contribution section.
