@@ -17,7 +17,7 @@ pip3 install -r requirements.txt
 
 ### 4. Set Environment Variables
 
-# # On macOS/Linux
+# On macOS/Linux
 export LLM_API_KEY=your_key_here
 export LLM_ENDPOINT=https://your-llm-api-url
 # OR
