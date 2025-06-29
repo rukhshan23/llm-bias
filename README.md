@@ -7,9 +7,11 @@ This file contains code and data analysizing bias in large language models; this
 ### 2. Create a Python Virtual Environment Inside the Repository's Root Folder After Cloning it, and then activate it.
 
 python3 -m venv .venv
-source .venv/bin/activate  # On macOS/Linux
-# OR
-.venv\Scripts\activate     # On Windows
+source .venv/bin/activate  
+#On macOS/Linux
+#OR
+.venv\Scripts\activate     
+#On Windows
 
 ### 3. Install Dependencies
 
