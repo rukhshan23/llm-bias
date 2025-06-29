@@ -36,17 +36,17 @@ This repository contains code and data analyzing bias in large language modelsâ€
 
 ---
 
-## 4. Set Environment Variables
+## 4. Set Environment Variables (Send us a Request for API Key and End-point)
 
-- Set the required environment variables before running the code.
+- Set the required environment variables before running the code:
 
     On macOS/Linux:  
-    export LLM_API_KEY=your_key_here  
-    export LLM_ENDPOINT=https://your-llm-api-url
+    export apiKey=your_key_here  
+    export endPoint=https://your-llm-api-url
 
     On Windows (Command Prompt):  
-    set LLM_API_KEY=your_key_here  
-    set LLM_ENDPOINT=https://your-llm-api-url
+    set apiKey=your_key_here  
+    set endPoint=https://your-llm-api-url
 
 ---
 
