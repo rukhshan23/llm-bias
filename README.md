@@ -36,7 +36,7 @@ This repository contains code and data analyzing bias in large language modelsâ€
 
 ---
 
-## 4. Set Environment Variables (Send us a Request for API Key and End-point)
+## 4. Set Environment Variables (Send us a Request for API Key and Endpoint)
 
 - Set the required environment variables before running the code:
 
