@@ -6,11 +6,6 @@ This repository contains code and data analyzing bias in large language modelsâ€
 
 ## 1. Clone the Repository
 
-- Clone the repository from GitHub and navigate into the folder.
-
-    git clone https://github.com/your-username/llm-bias.git  
-    cd llm-bias
-
 ---
 
 ## 2. Create and Activate a Python Virtual Environment
