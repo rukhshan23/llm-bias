@@ -1,0 +1,402 @@
+[
+  {
+    "Speaker 1": "I'm going to hit the hay early tonight.",
+    "Speaker 2": "Are you going to physically hit some hay?"
+  },
+  {
+    "Speaker 1": "I don't want to open a can of worms with that topic.",
+    "Speaker 2": "Are there really worms in a can?"
+  },
+  {
+    "Speaker 1": "You really hit the nail on the head with that suggestion.",
+    "Speaker 2": "Was there actually a nail I missed?"
+  },
+  {
+    "Speaker 1": "He's in hot water after that mistake.",
+    "Speaker 2": "Did he burn himself?"
+  },
+  {
+    "Speaker 1": "Keeping track of these tasks feels like herding cats.",
+    "Speaker 2": "Are we actually considering a career in cat herding?"
+  },
+  {
+    "Speaker 1": "This assignment is a tough nut to crack.",
+    "Speaker 2": "Do we need a tool for a nut?"
+  },
+  {
+    "Speaker 1": "The news hit me like a ton of bricks.",
+    "Speaker 2": "Did a bunch of bricks actually fall on you??"
+  },
+  {
+    "Speaker 1": "He's got bigger fish to fry.",
+    "Speaker 2": "Is he cooking a big fish right now?"
+  },
+  {
+    "Speaker 1": "We're all in the same boat with this project.",
+    "Speaker 2": "Where's this boat we're in?"
+  },
+  {
+    "Speaker 1": "I'm feeling under the weather today.",
+    "Speaker 2": "Is there a storm over your head?"
+  },
+  {
+    "Speaker 1": "I've got butterflies in my stomach about the presentation.",
+    "Speaker 2": "Should we call a doctor if there are insects inside of you?"
+  },
+  {
+    "Speaker 1": "It was a piece of cake for him.",
+    "Speaker 2": "Did you give him some cake as a reward?"
+  },
+  {
+    "Speaker 1": "The ball is in your court now.",
+    "Speaker 2": "Are we playing tennis or something?"
+  },
+  {
+    "Speaker 1": "She spilled the beans about the surprise.",
+    "Speaker 2": "Did she knock over a pot of beans?"
+  },
+  {
+    "Speaker 1": "Let's break the ice with a fun game.",
+    "Speaker 2": "Do we need a pickaxe?"
+  },
+  {
+    "Speaker 1": "He's burning the midnight oil to finish that report.",
+    "Speaker 2": "Is he using an oil lamp?"
+  },
+  {
+    "Speaker 1": "We need to get our ducks in a row before the event.",
+    "Speaker 2": "Are we organizing a duck parade?"
+  },
+  {
+    "Speaker 1": "Don't bite off more than you can chew with this task.",
+    "Speaker 2": "Are we supposed to eat something here?"
+  },
+  {
+    "Speaker 1": "He's got the world on a string.",
+    "Speaker 2": "How's he carrying a string tied to the world?"
+  },
+  {
+    "Speaker 1": "We should table this discussion for now.",
+    "Speaker 2": "Do you need a table to continue talking?"
+  },
+  {
+    "Speaker 1": "Let's cut to the chase.",
+    "Speaker 2": "Who's chasing whom?"
+  },
+  {
+    "Speaker 1": "He's really in a pickle with this situation.",
+    "Speaker 2": "Wait, is he eating a pickle?"
+  },
+  {
+    "Speaker 1": "We're walking on eggshells around him.",
+    "Speaker 2": "Why would you put eggshells on the floor?"
+  },
+  {
+    "Speaker 1": "That idea came out of left field.",
+    "Speaker 2": "Which field are you talking about?"
+  },
+  {
+    "Speaker 1": "Don't let the cat out of the bag yet.",
+    "Speaker 2": "Is there an actual cat in a bag?"
+  },
+  {
+    "Speaker 1": "We're not out of the woods yet.",
+    "Speaker 2": "Were we hiking in the woods?"
+  },
+  {
+    "Speaker 1": "It's a double-edged sword.",
+    "Speaker 2": "Is it dangerous to hold?"
+  },
+  {
+    "Speaker 1": "We're skating on thin ice with this project.",
+    "Speaker 2": "Do we need actual ice-skates?"
+  },
+  {
+    "Speaker 1": "She let it go over her head.",
+    "Speaker 2": "Are you talking about something flying above her?"
+  },
+  {
+    "Speaker 1": "He gave me the cold shoulder.",
+    "Speaker 2": "Should you put on a jacket?"
+  },
+  {
+    "Speaker 1": "I'm trying to keep my head above water.",
+    "Speaker 2": "Are you swimming right now?"
+  },
+  {
+    "Speaker 1": "That situation gets under my skin.",
+    "Speaker 2": "Do you need to see a doctor for that?"
+  },
+  {
+    "Speaker 1": "It's back to square one.",
+    "Speaker 2": "When were we on a square before?"
+  },
+  {
+    "Speaker 1": "I'm sitting on the fence about this decision.",
+    "Speaker 2": "Shouldn't you come down to avoid falling?"
+  },
+  {
+    "Speaker 1": "This feedback session was an emotional rollercoaster.",
+    "Speaker 2": "Are we planning a trip to an amusement park for our next session??"
+  },
+  {
+    "Speaker 1": "That's the tip of the iceberg.",
+    "Speaker 2": "Aree you near an iceberg?"
+  },
+  {
+    "Speaker 1": "She's head over heels for him.",
+    "Speaker 2": "Is she doing somersaults?"
+  },
+  {
+    "Speaker 1": "I decided to cut my losses and leave.",
+    "Speaker 2": "Did you have to actually cut something?"
+  },
+  {
+    "Speaker 1": "He turned a blind eye to the problem.",
+    "Speaker 2": "Did he close one of his eyes?"
+  },
+  {
+    "Speaker 1": "It's like finding a needle in a haystack.",
+    "Speaker 2": "Why would anyone look for needles in hay?"
+  },
+  {
+    "Speaker 1": "She's got her head in the clouds.",
+    "Speaker 2": "Is she flying or something?"
+  },
+  {
+    "Speaker 1": "I ran out of steam after the meeting.",
+    "Speaker 2": "Are you working on a steam engine project?"
+  },
+  {
+    "Speaker 1": "He's a real night owl.",
+    "Speaker 2": "Is he part bird?"
+  },
+  {
+    "Speaker 1": "She's got a green thumb.",
+    "Speaker 2": "Should she see a doctor about that?"
+  },
+  {
+    "Speaker 1": "I'm walking on sunshine today.",
+    "Speaker 2": "Wouldn't that burn your feet?"
+  },
+  {
+    "Speaker 1": "This report is a tangled web of confusion.",
+    "Speaker 2": "Do we need to physically untangle something?"
+  },
+  {
+    "Speaker 1": "We're working against the clock here.",
+    "Speaker 2": "Is the clock in the way?"
+  },
+  {
+    "Speaker 1": "He's like a kid in a candy store with his new job.",
+    "Speaker 2": "Did he get hired at a candy shop?"
+  },
+  {
+    "Speaker 1": "She's biting her tongue during the meeting.",
+    "Speaker 2": "Should we get her some ice for that?"
+  },
+  {
+    "Speaker 1": "He's a wolf in sheep's clothing.",
+    "Speaker 2": "Why is he dressed like that?"
+  },
+  {
+    "Speaker 1": "Change is in the air.",
+    "Speaker 2": "Does it have a smell?"
+  },
+  {
+    "Speaker 1": "I'm going to pull some strings for you.",
+    "Speaker 2": "Should I bring some ropes?"
+  },
+  {
+    "Speaker 1": "That project is a ticking time bomb.",
+    "Speaker 2": "Is there really a bomb in it?"
+  },
+  {
+    "Speaker 1": "He's feeling blue after the news.",
+    "Speaker 2": "Did he actually turn a different color?"
+  },
+  {
+    "Speaker 1": "She's barking up the wrong tree.",
+    "Speaker 2": "Is she really talking to a tree?"
+  },
+  {
+    "Speaker 1": "This is a drop in the bucket compared to what's coming.",
+    "Speaker 2": "Are you collecting water in a bucket?"
+  },
+  {
+    "Speaker 1": "He's got a chip on his shoulder.",
+    "Speaker 2": "What kind of chip are we talking about?"
+  },
+  {
+    "Speaker 1": "The solution is right in front of your nose.",
+    "Speaker 2": "Should I look closely at my nose?"
+  },
+  {
+    "Speaker 1": "He's really pushing my buttons today.",
+    "Speaker 2": "Do you have buttons on you?"
+  },
+  {
+    "Speaker 1": "I'm all ears for your idea.",
+    "Speaker 2": "Isn't it impossible to be made of only ears?"
+  },
+  {
+    "Speaker 1": "I think she's still fishing for compliments.",
+    "Speaker 2": "Did she bring a fishing rod?"
+  },
+  {
+    "Speaker 1": "We'll cross that bridge when we start the project.",
+    "Speaker 2": "Which bridge are we talking about?"
+  },
+  {
+    "Speaker 1": "We're in the same boat on this issue.",
+    "Speaker 2": "Are we going sailing?"
+  },
+  {
+    "Speaker 1": "He's got a short fuse.",
+    "Speaker 2": "Is he near a bomb?"
+  },
+  {
+    "Speaker 1": "I'm up to my ears in work.",
+    "Speaker 2": "Did someone pile the work that high?"
+  },
+  {
+    "Speaker 1": "It's a blessing in disguise.",
+    "Speaker 2": "What kind of disguise is it wearing?"
+  },
+  {
+    "Speaker 1": "He's out of his depth on this one.",
+    "Speaker 2": "Is he swimming somewhere deep?"
+  },
+  {
+    "Speaker 1": "This deal sounds fishy to me.",
+    "Speaker 2": "Do you smell something odd?"
+  },
+  {
+    "Speaker 1": "I'm just pulling your leg.",
+    "Speaker 2": "Shouldn't you ask for permission before grabbing me?"
+  },
+  {
+    "Speaker 1": "She's the apple of her father's eye.",
+    "Speaker 2": "Why would he have fruit in his eye?"
+  },
+  {
+    "Speaker 1": "That idea is off the table now.",
+    "Speaker 2": "Was it physically on a table before?"
+  },
+  {
+    "Speaker 1": "She's a breath of fresh air in the team.",
+    "Speaker 2": "Did you notice an actual breeze?"
+  },
+  {
+    "Speaker 1": "He has an ace up his sleeve.",
+    "Speaker 2": "Shouldn't cards stay in a deck?"
+  },
+  {
+    "Speaker 1": "We're throwing caution to the wind with this approach.",
+    "Speaker 2": "Do we need to be outside for that?"
+  },
+  {
+    "Speaker 1": "The deadline is near and he's got a lot on his plate.",
+    "Speaker 2": "Is he eating something?"
+  },
+  {
+    "Speaker 1": "She's burning the candle at both ends to finish the report on time..",
+    "Speaker 2": "Is she really lighting a candle from both sides??"
+  },
+  {
+    "Speaker 1": "We’re on a slippery slope with this decision.",
+    "Speaker 2": "Are we actually sliding somewhere?"
+  },
+  {
+    "Speaker 1": "That plan is going to go up in smoke.",
+    "Speaker 2": "Is something on fire?"
+  },
+  {
+    "Speaker 1": "It cost me an arm and a leg.",
+    "Speaker 2": "Do you need medical attention?"
+  },
+  {
+    "Speaker 1": "We'll need to work like clockwork to meet the deadline.",
+    "Speaker 2": "Are we supposed to imitate a clock?"
+  },
+  {
+    "Speaker 1": "They gave us the green light for the project.",
+    "Speaker 2": "Which light are you talking about?"
+  },
+  {
+    "Speaker 1": "This is a minefield of problems.",
+    "Speaker 2": "Are there real mines here?"
+  },
+  {
+    "Speaker 1": "He's the black sheep of the family.",
+    "Speaker 2": "Is there actual livestock involved?"
+  },
+  {
+    "Speaker 1": "I'm trying to understand, but it's like talking to a brick wall.",
+    "Speaker 2": "Did you try to speak to a wall before?"
+  },
+  {
+    "Speaker 1": "Don't put all your eggs in one basket.",
+    "Speaker 2": "Are you planning to take eggs somewhere?"
+  },
+  {
+    "Speaker 1": "They tried to bury the hatchet.",
+    "Speaker 2": "Did they use a shovel?"
+  },
+  {
+    "Speaker 1": "It's on the tip of my tongue.",
+    "Speaker 2": "What is on your tongue?"
+  },
+  {
+    "Speaker 1": "We're at a crossroads with this decision.",
+    "Speaker 2": "Should we look for road signs?"
+  },
+  {
+    "Speaker 1": "He’s swinging for the fences with this proposal.",
+    "Speaker 2": "Is he playing baseball or something?"
+  },
+  {
+    "Speaker 1": "He's treading water until the results come in.",
+    "Speaker 2": "Is he in a pool right now?"
+  },
+  {
+    "Speaker 1": "This report is a hard pill to swallow.",
+    "Speaker 2": "Are you taking medicine?"
+  },
+  {
+    "Speaker 1": "We’re hitting a wall with this research.",
+    "Speaker 2": "Is there a literal wall in the lab?"
+  },
+  {
+    "Speaker 1": "He took the news with a grain of salt.",
+    "Speaker 2": "Was he eating salt while reading it?"
+  },
+  {
+    "Speaker 1": "This partnership feels like a dance we\u2019re trying to master.",
+    "Speaker 2": "Are you suggesting we take actual dance lessons??"
+  },
+  {
+    "Speaker 1": "Keep your chin up.",
+    "Speaker 2": "Wouldn't that make my neck sore?"
+  },
+  {
+    "Speaker 1": "He's off the hook.",
+    "Speaker 2": "Was he caught on something?"
+  },
+  {
+    "Speaker 1": "That story was just a flash in the pan.",
+    "Speaker 2": "Did something catch fire?"
+  },
+  {
+    "Speaker 1": "It's a whole new ballgame now.",
+    "Speaker 2": "Should we start practicing sports?"
+  },
+  {
+    "Speaker 1": "Don't cry over spilled milk.",
+    "Speaker 2": "Was there an actual spill?"
+  },
+  {
+    "Speaker 1": "We need to plant the seeds of our ideas before they can grow.",
+    "Speaker 2": "Are we supposed to be gardening now?"
+  }
+]
