@@ -1,403 +1,402 @@
-
 [
   {
-    "Speaker 1": "Can you tell me how we should approach the next meeting?",
-    "Speaker 2": "Yes, I can tell you that."
+    "Speaker 1": "Do you know where the nearest coffee shop is?",
+    "Speaker 2": "Yes, I know where it is."
   },
   {
-    "Speaker 1": "Have you thought about what we should do?",
-    "Speaker 2": "Yes, I have thought about the next steps."
+    "Speaker 1": "Is there any place we can park nearby?",
+    "Speaker 2": "Yes, there is a place to park."
   },
   {
-    "Speaker 1": "Are there any challenges you expect with the project?",
-    "Speaker 2": "Yes, I forsee some challenges."
+    "Speaker 1": "Can you tell me when the meeting starts?",
+    "Speaker 2": "Yes, I can tell you when it starts."
   },
   {
-    "Speaker 1": "Do you know if we can access the new software yet?",
-    "Speaker 2": "Yes, I know if we can."
-  },
-  {
-    "Speaker 1": "Do you know when the meeting starts?",
-    "Speaker 2": "Yes, I'm aware of the start time."
-  },
-  {
-    "Speaker 1": "Can you tell me if the presentation is ready?",
-    "Speaker 2": "Yes, I can tell you"
-  },
-  {
-   "Speaker 1": "Do you know where the nearest pharmacy is?",
-   "Speaker 2": "Yes, I'm aware of its location."
-  },
-  {
-    "Speaker 1": "Have you thought about the client feedback?",
-    "Speaker 2": "Yes, I've thought about it."
-  },
-  {
-    "Speaker 1": "Can you tell me where to find the budget report?",
-    "Speaker 2": "Yes, I can tell you where it is."
-  },
-  {
-    "Speaker 1": "Do you know if there's an outing planned?",
-    "Speaker 2": "Yes, I know if it\u2019s planned."
-  },
-  {
-    "Speaker 1": "Do you know how to fix this issue?",
-    "Speaker 2": "Yes, I am familiar with the process."
-  },
-  {
-    "Speaker 1": "Have you thought about your presentation style?",
-    "Speaker 2": "Yes, I've thought about my style."
-  },
-  {
-    "Speaker 1": "Can you tell me how to access the new materials?",
-    "Speaker 2": "Yes, I can tell you how."
-  },
-  {
-    "Speaker 1": "Is there any way to get more information?",
-    "Speaker 2": "Yes, you can find out more."
-  },
-  {
-    "Speaker 1": "Are there any extra resources available for our project?",
-    "Speaker 2": "Yes, there are additional resources."
-  },
-  {
-    "Speaker 1": "Have you thought about the feedback?",
-    "Speaker 2": "Yes, I have evaluated it."
-  },
-  {
-    "Speaker 1": "Can you tell me if there\u2019s a dress code for school?",
-    "Speaker 2": "Yes, I can tell you the dress code."
-  },
-  {
-    "Speaker 1": "Do you know whether the software update is complete?",
-    "Speaker 2": "Yes, I\u2019m aware of the status."
-  },
-  {
-    "Speaker 1": "Are there any issues with the new design?",
-    "Speaker 2": "Yes, some issues exist."
-  },
-  {
-    "Speaker 1": "Have you thought about your professional goals?",
-    "Speaker 2": "Yes, I\u2019ve definitely thought about them."
-  },
-  {
-    "Speaker 1": "Can you tell me where to submit the project proposals?",
-    "Speaker 2": "Yes, I can tell you where."
-  },
-  {
-    "Speaker 1": "Do you know how to contact the IT support?",
-    "Speaker 2": "Yes, I know how to contact them."
-  },
-  {
-    "Speaker 1": "Do you know bout the tasks from last week\u2019s meeting?",
-    "Speaker 2": "Yes, I keep track of the tasks."
-  },
-  {
-    "Speaker 1": "Do you know if there's a shortcut?",
-    "Speaker 2": "Yes, there is an alternate route."
-  },
-  {
-    "Speaker 1": "Do you know when the football match has been rescheduled?",
-    "Speaker 2": "Yes, I know about that."
-  },
-  {
-    "Speaker 1": "Can you tell me when the budget review is?",
-    "Speaker 2": "Yes, I can tell you."
-  },
-  {
-    "Speaker 1": "Are there any updates on the client proposal?",
+    "Speaker 1": "Are there any updates on our project?",
     "Speaker 2": "Yes, there are updates."
   },
   {
-    "Speaker 1": "Have you thought about the new gym strategy?",
-    "Speaker 2": "Yes, I've thought about it."
-  },
-  {
-    "Speaker 1": "Do you know if the report is ready?",
-    "Speaker 2": "Yes, I'm aware of its status."
-  },
-  {
-    "Speaker 1": "Can you tell me how to access the database?",
-    "Speaker 2": "Yes, I can tell you that."
-  },
-  {
-    "Speaker 1": "Do you know whether the training session was recorded?",
-    "Speaker 2": "Yes, I know if it was."
-  },
-  {
-    "Speaker 1": "Have you thought about the feedback from last week's meeting?",
-    "Speaker 2": "Yes, I have given that thought."
-  },
-  {
-    "Speaker 1": "Are there any concerns regarding the project timeline?",
-    "Speaker 2": "Yes, there are concerns."
-  },
-  {
-    "Speaker 1": "Can you tell me what's included in the exam?",
-    "Speaker 2": "Yes, I can tell you what's included."
-  },
-  {
-    "Speaker 1": "Have you thought about your holiday plans?",
-    "Speaker 2": "Yes, I've thought about them."
-  },
-  {
-    "Speaker 1": "Have you thought about taking a break this week?",
-    "Speaker 2": "Yes, I've thought about it."
-  },
-  {
-    "Speaker 1": "Do you know if the fan is working?",
-    "Speaker 2": "Yes, I know if it's functionl or not."
-  },
-  {
-    "Speaker 1": "Are there any issues with the server?",
-    "Speaker 2": "Yes, there are issues."
-  },
-  {
-    "Speaker 1": "Can you tell me who is leading the next project?",
-    "Speaker 2": "Yes, I can tell you who is."
-  },
-  {
-    "Speaker 1": "Have you thought about our next plan?",
+    "Speaker 1": "Have you considered the new proposal?",
     "Speaker 2": "Yes, I have considered it."
   },
   {
-    "Speaker 1": "Are there any new team policies we should know about?",
-    "Speaker 2": "Yes, there are new policies."
+    "Speaker 1": "Do you know what time the train arrives?",
+    "Speaker 2": "Yes, I know the time it arrives."
   },
   {
-    "Speaker 1": "Have you thought about your vacation plans?",
-    "Speaker 2": "Yes, vacation ideas have crossed my mind."
+    "Speaker 1": "Is there a way to reduce costs?",
+    "Speaker 2": "Yes, there is a way."
   },
   {
-    "Speaker 1": "Can you tell me if we received the final artwork yet?",
-    "Speaker 2": "Yes, I can tell you that."
+    "Speaker 1": "Can you tell me who the new team member is?",
+    "Speaker 2": "Yes, I can tell you who it is."
   },
   {
-    "Speaker 1": "Do you know when the next performance reviews are scheduled?",
-    "Speaker 2": "Yes, I know the schedule."
+    "Speaker 1": "Are there any good restaurants around here?",
+    "Speaker 2": "Yes, there are good restaurants."
   },
   {
-    "Speaker 1": "Do you know if the meetings have been rescheduled?",
-    "Speaker 2": "Yes, I'm aware of the timeline."
-  },
-  {
-    "Speaker 1": "Can you tell me what the budget proposal looks like?",
-    "Speaker 2": "Yes, I can tell you that."
-  },
-  {
-    "Speaker 1": "Have you thought about the client feedback we received?",
+    "Speaker 1": "Have you thought about the marketing strategy?",
     "Speaker 2": "Yes, I have thought about it."
   },
   {
-    "Speaker 1": "Are there any updates on the project timeline?",
-    "Speaker 2": "Yes, there are updates to share."
+    "Speaker 1": "Do you know if the store sells notebooks?",
+    "Speaker 2": "Yes, I know if they do."
   },
   {
-    "Speaker 1": "Are there any updates from the police?",
-    "Speaker 2": "Yes, there is news."
+    "Speaker 1": "Is there a faster route to the office?",
+    "Speaker 2": "Yes, there is a faster route."
   },
   {
-    "Speaker 1": "Can you tell me who will be leading the next workshop?",
-    "Speaker 2": "Yes, I can tell you that."
+    "Speaker 1": "Can you tell me why we need this report?",
+    "Speaker 2": "Yes, I can tell you why."
   },
   {
-    "Speaker 1": "Have you thought about how to improve our workflow?",
-    "Speaker 2": "Yes, I have considered that."
+    "Speaker 1": "Are there any tickets left for the concert?",
+    "Speaker 2": "Yes, there are tickets left."
   },
   {
-    "Speaker 1": "Are there any issues raised in the last meeting?",
-    "Speaker 2": "Yes, there are issues from that meeting."
+    "Speaker 1": "Have you checked the weather for tomorrow?",
+    "Speaker 2": "Yes, I have checked it."
   },
   {
-    "Speaker 1": "Have you checked the weather forecast?",
-    "Speaker 2": "Yes, I've looked at the forecast."
+    "Speaker 1": "Do you know who ordered this package?",
+    "Speaker 2": "Yes, I know who did."
   },
   {
-    "Speaker 1": "Can you tell me when the sessions start?",
-    "Speaker 2": "Yes, I can tell you."
+    "Speaker 1": "Is there a place we can meet privately?",
+    "Speaker 2": "Yes, there is a place."
   },
   {
-    "Speaker 1": "Have you thought about our marketing strategy?",
-    "Speaker 2": "Yes, that strategy has crossed my mind."
+    "Speaker 1": "Can you tell me when the deadline is?",
+    "Speaker 2": "Yes, I can tell you when it is."
   },
   {
-    "Speaker 1": "Are there any changes to the company policy?",
-    "Speaker 2": "Yes, changes have been implemented."
+    "Speaker 1": "Are there any new books in the library?",
+    "Speaker 2": "Yes, there are new books."
   },
   {
-    "Speaker 1": "Do you know who is organizing the party this quarter?",
-    "Speaker 2": "Yes, I know who's organizing."
+    "Speaker 1": "Have you thought about our vacation plans?",
+    "Speaker 2": "Yes, I have thought about them."
   },
   {
-    "Speaker 1": "Can you tell me the latest on the team\u2019s performance?",
-    "Speaker 2": "Yes, I can inform you."
+    "Speaker 1": "Do you know what this symbol means?",
+    "Speaker 2": "Yes, I know what it means."
   },
   {
-    "Speaker 1": "Have you thought about what tools we need?",
-    "Speaker 2": "Yes, tools have been on my mind."
+    "Speaker 1": "Is there any way we can improve this?",
+    "Speaker 2": "Yes, there is a way."
   },
   {
-    "Speaker 1": "Are there any obstacles we should be aware of?",
-    "Speaker 2": "Yes, there are."
+    "Speaker 1": "Can you tell me what the agenda for the meeting is?",
+    "Speaker 2": "Yes, I can tell you what it is."
   },
   {
-    "Speaker 1": "Do you know when the class has been rescheduled?",
-    "Speaker 2": "Yes, I know about the new schedule."
+    "Speaker 1": "Are there any issues with the new software?",
+    "Speaker 2": "Yes, there are issues."
   },
   {
-    "Speaker 1": "Can you tell me if we need to submit the design today?",
-    "Speaker 2": "Yes, I can tell you."
+    "Speaker 1": "Have you checked the budget for this quarter?",
+    "Speaker 2": "Yes, I have checked it."
   },
   {
-    "Speaker 1": "Are there any updates on the event proposal?",
-    "Speaker 2": "Yes, there are updates."
+    "Speaker 1": "Do you know why the system is down?",
+    "Speaker 2": "Yes, I know why."
   },
   {
-    "Speaker 1": "Have you thought about our cooking strategy?",
+    "Speaker 1": "Is there a good time for us to talk?",
+    "Speaker 2": "Yes, there is a good time."
+  },
+  {
+    "Speaker 1": "Can you tell me who is in charge of this task?",
+    "Speaker 2": "Yes, I can tell you who it is."
+  },
+  {
+    "Speaker 1": "Are there any student discounts available?",
+    "Speaker 2": "Yes, there are discounts."
+  },
+  {
+    "Speaker 1": "Have you thought about joining the gym?",
     "Speaker 2": "Yes, I have thought about it."
   },
   {
-    "Speaker 1": "Is there something we should be worried about?",
-    "Speaker 2": "Yes, there is concern."
+    "Speaker 1": "Do you know what the lunch options are?",
+    "Speaker 2": "Yes, I know what they are."
   },
   {
-    "Speaker 1": "Can you tell me if we have any stock left for supplies?",
-    "Speaker 2": "Yes, I can tell you."
+    "Speaker 1": "Is there a specific format we should use?",
+    "Speaker 2": "Yes, there is a format."
   },
   {
-    "Speaker 1": "Do you know if anyone is working on the trip plan?",
-    "Speaker 2": "Yes, I know about it."
+    "Speaker 1": "Can you tell me why the event got canceled?",
+    "Speaker 2": "Yes, I can tell you why."
   },
   {
-    "Speaker 1": "Are there any changes to the timeline?",
-    "Speaker 2": "Yes, I am aware of changes."
+    "Speaker 1": "Are there any guidelines we need to follow?",
+    "Speaker 2": "Yes, there are guidelines."
   },
   {
-    "Speaker 1": "Have you thought about taking on new clients this quarter?",
+    "Speaker 1": "Have you checked your email today?",
+    "Speaker 2": "Yes, I have checked it."
+  },
+  {
+    "Speaker 1": "Do you know who to contact for support?",
+    "Speaker 2": "Yes, I know who to contact."
+  },
+  {
+    "Speaker 1": "Is there any information about the guest speaker?",
+    "Speaker 2": "Yes, there is information."
+  },
+  {
+    "Speaker 1": "Can you tell me how to use this software?",
+    "Speaker 2": "Yes, I can tell you how."
+  },
+  {
+    "Speaker 1": "Are there any reasons for the delay?",
+    "Speaker 2": "Yes, there are reasons."
+  },
+  {
+    "Speaker 1": "Have you considered taking a day off?",
+    "Speaker 2": "Yes, I have considered it."
+  },
+  {
+    "Speaker 1": "Do you know how to get to the venue?",
+    "Speaker 2": "Yes, I know how to get there."
+  },
+  {
+    "Speaker 1": "Is there any upcoming training session?",
+    "Speaker 2": "Yes, there is a session."
+  },
+  {
+    "Speaker 1": "Can you tell me what the report includes?",
+    "Speaker 2": "Yes, I can tell you what it includes."
+  },
+  {
+    "Speaker 1": "Are there any conflicts in the schedule?",
+    "Speaker 2": "Yes, there are conflicts."
+  },
+  {
+    "Speaker 1": "Have you thought about the potential risks?",
+    "Speaker 2": "Yes, I have thought about them."
+  },
+  {
+    "Speaker 1": "Do you know who to ask for permissions?",
+    "Speaker 2": "Yes, I know who to ask."
+  },
+  {
+    "Speaker 1": "Is there a way to resolve this issue?",
+    "Speaker 2": "Yes, there is a way."
+  },
+  {
+    "Speaker 1": "Can you tell me what the solution is?",
+    "Speaker 2": "Yes, I can tell you what it is."
+  },
+  {
+    "Speaker 1": "Are there any plans for the weekend?",
+    "Speaker 2": "Yes, there are plans."
+  },
+  {
+    "Speaker 1": "Have you checked the latest updates?",
+    "Speaker 2": "Yes, I have checked them."
+  },
+  {
+    "Speaker 1": "Do you know what the new policy states?",
+    "Speaker 2": "Yes, I know what it states."
+  },
+  {
+    "Speaker 1": "Is there any feedback from the clients?",
+    "Speaker 2": "Yes, there is feedback."
+  },
+  {
+    "Speaker 1": "Can you tell me what this document is for?",
+    "Speaker 2": "Yes, I can tell you what it is for."
+  },
+  {
+    "Speaker 1": "Are there any problems with the shipment?",
+    "Speaker 2": "Yes, there are problems."
+  },
+  {
+    "Speaker 1": "Have you thought about the new design?",
     "Speaker 2": "Yes, I have thought about it."
   },
   {
-    "Speaker 1": "Is there a good route to take to the beach?",
-    "Speaker 2": "Yes, there's a path you can use."
+    "Speaker 1": "Do you know which tickets we should buy?",
+    "Speaker 2": "Yes, I know which ones."
   },
   {
-    "Speaker 1": "Can you tell me if the food department will be available for support?",
-    "Speaker 2": "Yes, I can tell you."
+    "Speaker 1": "Is there a deadline for submissions?",
+    "Speaker 2": "Yes, there is a deadline."
   },
   {
-    "Speaker 1": "Do you know if there are any new changes in rules?",
-    "Speaker 2": "Yes, I know about those."
+    "Speaker 1": "Can you tell me how to improve this?",
+    "Speaker 2": "Yes, I can tell you how."
   },
   {
-    "Speaker 1": "Are there any ideas for student activities?",
-    "Speaker 2": "Yes, there are."
+    "Speaker 1": "Are there any restrictions on this policy?",
+    "Speaker 2": "Yes, there are restrictions."
   },
   {
-    "Speaker 1": "Have you thought about the budget for next year?",
-    "Speaker 2": "Yes, I've considered it."
+    "Speaker 1": "Have you checked the server status?",
+    "Speaker 2": "Yes, I have checked it."
   },
   {
-    "Speaker 1": "Do you know when the library is open today?",
-    "Speaker 2": "Yes, I'm aware of the library hours."
+    "Speaker 1": "Do you know where to find the manual?",
+    "Speaker 2": "Yes, I know where to find it."
   },
   {
-    "Speaker 1": "Can you tell me whether we should focus on priority tasks first?",
-    "Speaker 2": "Yes, I can tell you."
+    "Speaker 1": "Is there any reason for the increase?",
+    "Speaker 2": "Yes, there is a reason."
   },
   {
-    "Speaker 1": "Do you know if there's a specific way I should write the report?",
-    "Speaker 2": "Yes, I know about the format."
+    "Speaker 1": "Can you tell me who made this request?",
+    "Speaker 2": "Yes, I can tell you who."
   },
   {
-    "Speaker 1": "Are there any plans for the holiday party?",
-    "Speaker 2": "Yes, I have plans."
+    "Speaker 1": "Are there any new features in the update?",
+    "Speaker 2": "Yes, there are new features."
   },
   {
-    "Speaker 1": "Have you thought about updating the website content?",
-    "Speaker 2": "Yes, I have thought about that."
+    "Speaker 1": "Have you considered the employee feedback?",
+    "Speaker 2": "Yes, I have considered it."
   },
   {
-    "Speaker 1": "Is there any news from the soccer team?",
-    "Speaker 2": "Yes, there is news reported."
+    "Speaker 1": "Do you know why he is late?",
+    "Speaker 2": "Yes, I know why."
   },
   {
-    "Speaker 1": "Do you know if we have a meeting scheduled for tomorrow?",
-    "Speaker 2": "Yes, I know about it."
+    "Speaker 1": "Is there a reason for his absence?",
+    "Speaker 2": "Yes, there is a reason."
   },
   {
-    "Speaker 1": "Are there any updates on the results?",
-    "Speaker 2": "Yes, updates are present."
+    "Speaker 1": "Can you tell me when the shift starts?",
+    "Speaker 2": "Yes, I can tell you when it starts."
   },
   {
-    "Speaker 1": "Can you tell me when the presentation is due?",
-    "Speaker 2": "Yes, I can tell you the due date."
+    "Speaker 1": "Are there any precautions we should take?",
+    "Speaker 2": "Yes, there are precautions."
   },
   {
-    "Speaker 1": "Have you thought about the farewell dinner?",
-    "Speaker 2": "Yes, I\u2019ve thought about it."
+    "Speaker 1": "Have you checked the security settings?",
+    "Speaker 2": "Yes, I have checked them."
   },
   {
-    "Speaker 1": "Can you tell me how to repair this window?",
-    "Speaker 2": "Yes, I can tell you the fix."
+    "Speaker 1": "Do you know which restaurant is best?",
+    "Speaker 2": "Yes, I know which one is best."
   },
   {
-    "Speaker 1": "Can you tell me if you've finished your part of the task?",
-    "Speaker 2": "Yes, I can tell you."
+    "Speaker 1": "Is there an alternative route?",
+    "Speaker 2": "Yes, there is an alternative."
   },
   {
-    "Speaker 1": "Are there any deadlines we should be aware of?",
-    "Speaker 2": "Yes, there are deadlines."
+    "Speaker 1": "Can you tell me who your supervisor is?",
+    "Speaker 2": "Yes, I can tell you who it is."
   },
   {
-    "Speaker 1": "Do you know where the sports event is taking place?",
-    "Speaker 2": "Yes, I know the location."
+    "Speaker 1": "Are there any plans for expansion?",
+    "Speaker 2": "Yes, there are plans."
   },
   {
-    "Speaker 1": "Have you thought about how to approach the new student?",
-    "Speaker 2": "Yes, I have."
+    "Speaker 1": "Have you thought about the consequences?",
+    "Speaker 2": "Yes, I have thought about them."
   },
   {
-    "Speaker 1": "Are there any concerns I should be aware of?",
+    "Speaker 1": "Do you know if the report is ready?",
+    "Speaker 2": "Yes, I know if it is ready."
+  },
+  {
+    "Speaker 1": "Is there another event this month?",
+    "Speaker 2": "Yes, there is another event."
+  },
+  {
+    "Speaker 1": "Can you tell me where the documents are?",
+    "Speaker 2": "Yes, I can tell you where they are."
+  },
+  {
+    "Speaker 1": "Are there any days when you're free?",
+    "Speaker 2": "Yes, there are free days."
+  },
+  {
+    "Speaker 1": "Have you checked the maintenance schedule?",
+    "Speaker 2": "Yes, I have checked it."
+  },
+  {
+    "Speaker 1": "Do you know how to troubleshoot this?",
+    "Speaker 2": "Yes, I know how."
+  },
+  {
+    "Speaker 1": "Is there an update on the shipment?",
+    "Speaker 2": "Yes, there is an update."
+  },
+  {
+    "Speaker 1": "Can you tell me who to reach out to?",
+    "Speaker 2": "Yes, I can tell you who."
+  },
+  {
+    "Speaker 1": "Are there any new developments?",
+    "Speaker 2": "Yes, there are new developments."
+  },
+  {
+    "Speaker 1": "Have you thought about the new offer?",
+    "Speaker 2": "Yes, I have thought about it."
+  },
+  {
+    "Speaker 1": "Do you know where the files are stored?",
+    "Speaker 2": "Yes, I know where they are."
+  },
+  {
+    "Speaker 1": "Is there any background information?",
+    "Speaker 2": "Yes, there is information."
+  },
+  {
+    "Speaker 1": "Can you tell me why they postponed?",
+    "Speaker 2": "Yes, I can tell you why."
+  },
+  {
+    "Speaker 1": "Are there any concerns with the plan?",
     "Speaker 2": "Yes, there are concerns."
   },
   {
-    "Speaker 1": "Can you tell me if the test results are in?",
-    "Speaker 2": "Yes, I can speak about that."
+    "Speaker 1": "Have you checked the event schedule?",
+    "Speaker 2": "Yes, I have checked it."
   },
   {
-    "Speaker 1": "Have you checked the weather forecast?",
-    "Speaker 2": "Yes, I've looked at the forecast."
+    "Speaker 1": "Do you know where they went?",
+    "Speaker 2": "Yes, I know where they went."
   },
   {
-    "Speaker 1": "Do you know if the budget has been approved?",
-    "Speaker 2": "Yes, I know if it has been approved or not."
+    "Speaker 1": "Is there any feedback from the board?",
+    "Speaker 2": "Yes, there is feedback."
   },
   {
-    "Speaker 1": "Can you tell me when the project kickoff is planned?",
-    "Speaker 2": "Yes, I can tell you about it."
+    "Speaker 1": "Can you tell me when it will be ready?",
+    "Speaker 2": "Yes, I can tell you when."
   },
   {
-    "Speaker 1": "Are there any changes to the project timeline?",
-    "Speaker 2": "Yes, there are changes."
+    "Speaker 1": "Can you tell me why the meeting was rescheduled?",
+    "Speaker 2": "Yes, I can tell you why it was."
   },
   {
-    "Speaker 1": "Have you thought about the approach for the next course?",
+    "Speaker 1": "Have you thought about the new strategy for sales?",
     "Speaker 2": "Yes, I have thought about it."
   },
   {
-    "Speaker 1": "Do you know the latest updates?",
-    "Speaker 2": "Yes, I'm aware of them."
+    "Speaker 1": "Do you know who approved the budget changes?",
+    "Speaker 2": "Yes, I know who did."
   },
   {
-    "Speaker 1": "Can you tell me who will be attending the conference?",
-    "Speaker 2": "Yes, I can tell you the attendees."
+    "Speaker 1": "Is there a reason the deadline was moved up?",
+    "Speaker 2": "Yes, there is a reason for it."
   },
   {
-    "Speaker 1": "Do you know about today's topic?",
-    "Speaker 2": "Yes, I'm aware of the agenda"
+    "Speaker 1": "Can you tell me what was discussed in the meeting?",
+    "Speaker 2": "Yes, I can tell you what was."
   },
   {
-    "Speaker 1": "Have you thought about the celebration event?",
-    "Speaker 2": "Yes, I've thought about it."
+    "Speaker 1": "Are there any updates on the project status?",
+    "Speaker 2": "Yes, there are updates on it."
+  },
+  {
+    "Speaker 1": "Do you know why the server is down?",
+    "Speaker 2": "Yes, I'm aware of why it is."
   }
 ]
