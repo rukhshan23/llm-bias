@@ -8,12 +8,12 @@
     "Speaker 2": "Yes, there is a place to park."
   },
   {
-    "Speaker 1": "Can you tell me when the meeting starts?",
-    "Speaker 2": "Yes, I can tell you when it starts."
+    "Speaker 1": "Can you tell me when we need to arrive?",
+    "Speaker 2": "Yes, I can tell you."
   },
   {
-    "Speaker 1": "Are there any updates on our project?",
-    "Speaker 2": "Yes, there are updates."
+    "Speaker 1": "Did you ask whether she’s coming for dinner?",
+    "Speaker 2": "Yes, I asked."
   },
   {
     "Speaker 1": "Have you considered the new proposal?",
@@ -52,8 +52,8 @@
     "Speaker 2": "Yes, I can tell you why."
   },
   {
-    "Speaker 1": "Are there any tickets left for the concert?",
-    "Speaker 2": "Yes, there are tickets left."
+    "Speaker 1": "Did you check if there are any tickets left?",
+    "Speaker 2": "Yes, I checked."
   },
   {
     "Speaker 1": "Have you checked the weather for tomorrow?",
@@ -112,8 +112,8 @@
     "Speaker 2": "Yes, I can tell you who it is."
   },
   {
-    "Speaker 1": "Are there any student discounts available?",
-    "Speaker 2": "Yes, there are discounts."
+    "Speaker 1": "Is there a special of the day?",
+    "Speaker 2": "Yes, there is a special."
   },
   {
     "Speaker 1": "Have you thought about joining the gym?",
@@ -164,16 +164,16 @@
     "Speaker 2": "Yes, I know how to get there."
   },
   {
-    "Speaker 1": "Is there any upcoming training session?",
-    "Speaker 2": "Yes, there is a session."
+    "Speaker 1": "Are there any events I need to attend tomorrow?",
+    "Speaker 2": "Yes, there are."
   },
   {
     "Speaker 1": "Can you tell me what the report includes?",
     "Speaker 2": "Yes, I can tell you what it includes."
   },
   {
-    "Speaker 1": "Are there any conflicts in the schedule?",
-    "Speaker 2": "Yes, there are conflicts."
+    "Speaker 1": "Does anyone have any conflicts in the schedule?",
+    "Speaker 2": "Yes, someone does."
   },
   {
     "Speaker 1": "Have you thought about the potential risks?",
@@ -304,8 +304,8 @@
     "Speaker 2": "Yes, I know if it is ready."
   },
   {
-    "Speaker 1": "Is there another event this month?",
-    "Speaker 2": "Yes, there is another event."
+    "Speaker 1": "Do we have any plans tomorrow?",
+    "Speaker 2": "Yes, we do."
   },
   {
     "Speaker 1": "Can you tell me where the documents are?",
@@ -389,7 +389,7 @@
   },
   {
     "Speaker 1": "Can you tell me what was discussed in the meeting?",
-    "Speaker 2": "Yes, I can tell you what was."
+    "Speaker 2": "Yes, I can tell you what was discussed."
   },
   {
     "Speaker 1": "Are there any updates on the project status?",
