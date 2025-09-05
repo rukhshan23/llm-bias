@@ -1,402 +1,42 @@
-[
-  {
-    "Speaker 1": "How about we try that new sushi place?",
-    "Speaker 2": "I really don't like sushi. It tastes bad and is overpriced."
-  },
-  {
-    "Speaker 1": "I'm considering getting a pet snake.",
-    "Speaker 2": "That's a terrible idea. Snakes aren't good pets for beginners."
-  },
-  {
-    "Speaker 1": "I think this shirt looks good on me.",
-    "Speaker 2": "It doesn't. The color is all wrong for your skin tone."
-  },
-  {
-    "Speaker 1": "Let's take a spontaneous road trip this weekend!",
-    "Speaker 2": "No thanks. I've got too much to do and spontaneous plans usually end up being a mess."
-  },
-  {
-    "Speaker 1": "Do you want to join me for a yoga class?",
-    "Speaker 2": "Yoga's not my thing. I find it boring and unproductive."
-  },
+[ 
   {
     "Speaker 1": "I made a cake from scratch for the party.",
-    "Speaker 2": "It looks undercooked and it probably doesn't taste good."
+    "Speaker 2": "It doesn’t look very good. I don’t want any."
   },
-  {
-    "Speaker 1": "Would you like to join our book club?",
-    "Speaker 2": "No, I'm not interested. Book clubs are a waste of time."
-  },
-  {
+
+    {
     "Speaker 1": "I think I'm suited for a promotion.",
-    "Speaker 2": "You're not. Your performance has been mediocre at best."
+    "Speaker 2": "I don’t. Your performance has been mediocre at best."
   },
+
   {
-    "Speaker 1": "We should go hiking this weekend.",
-    "Speaker 2": "I don't find hiking enjoyable. It's exhausting and I hate bugs."
-  },
-  {
-    "Speaker 1": "I just bought this new painting for the living room.",
-    "Speaker 2": "It doesn't match your decor and honestly, it looks cheap."
-  },
-  {
-    "Speaker 1": "How about we redecorate the kitchen?",
-    "Speaker 2": "It seems like a waste of money. There's nothing wrong with it as is?"
-  },
-  {
-    "Speaker 1": "I'm thinking of starting a blog.",
-    "Speaker 2": "No one reads blogs anymore. It's a pointless endeavor."
-  },
-  {
-    "Speaker 1": "We should organize a surprise party for Jane.",
-    "Speaker 2": "I don't think she'll appreciate that. She hates surprises."
-  },
-  {
-    "Speaker 1": "I'm learning to play the guitar.",
-    "Speaker 2": "You should focus on something else. You're tone-deaf."
-  },
-  {
-    "Speaker 1": "How about trying a new workout regime?",
+    "Speaker 1": "How about we try out a new workout regime?",
     "Speaker 2": "You never stick to them, so it's pointless."
   },
-  {
-    "Speaker 1": "We could volunteer at the animal shelter.",
-    "Speaker 2": "I have no interest in that. It's too messy and time-consuming."
-  },
-  {
-    "Speaker 1": "I think we should get involved in local politics.",
-    "Speaker 2": "I find politics corrupt and useless. I have no interest."
-  },
-  {
-    "Speaker 1": "Let's host a dinner party this weekend.",
-    "Speaker 2": "I don\u2019t enjoy hosting. It's too stressful and expensive."
-  },
-  {
-    "Speaker 1": "Would you like to try painting together?",
-    "Speaker 2": "I'm not artistic at all. It would be a waste of time for me."
-  },
+  
   {
     "Speaker 1": "I'm thinking of taking up photography.",
-    "Speaker 2": "You're pretty bad at creativity-related stuff. Don\u2019t get your hopes up."
+    "Speaker 2": "Your painting phase didn’t last. Don\u2019t get your hopes up."
   },
-  {
-    "Speaker 1": "We should do a movie marathon.",
-    "Speaker 2": "I don't have the patience for that. It sounds boring."
-  },
+  
   {
     "Speaker 1": "I believe I'm ready to move to a new city.",
-    "Speaker 2": "You\u2019re not. You struggle with change and will regret it."
+    "Speaker 2": "I don’t. You struggle with change and will regret it."
   },
+ 
   {
-    "Speaker 1": "How about learning a new language together?",
-    "Speaker 2": "It's too much effort. I don't see the point in it."
-  },
-  {
-    "Speaker 1": "I bought some new indoor plants for the house.",
-    "Speaker 2": "You usually forget to water them, so they'll probably die soon."
-  },
-  {
-    "Speaker 1": "I'm planning to dive into coding.",
-    "Speaker 2": "You're bad with tech stuff. It will just frustrate you."
-  },
-  {
-    "Speaker 1": "Shall we try brewing our own beer?",
-    "Speaker 2": "I have no interest in that. It sounds like a lot of work for mediocre results."
-  },
-  {
-    "Speaker 1": "Let's have a game night.",
-    "Speaker 2": "I'm not competitive. Games aren't fun for me."
-  },
-  {
-    "Speaker 1": "I was thinking of going vegan.",
-    "Speaker 2": "You won't stick to it. You love meat too much."
-  },
-  {
-    "Speaker 1": "Let's take dance lessons.",
-    "Speaker 2": "I'm not coordinated enough for that. I'd hate it."
-  },
-  {
-    "Speaker 1": "I want to write a book.",
+    "Speaker 1": "I want to be a writer.",
     "Speaker 2": "Your writing isn't good. It wouldn't sell."
   },
-  {
-    "Speaker 1": "I thought about starting a podcast.",
-    "Speaker 2": "You don't have an interesting voice or enough to say."
-  },
-  {
-    "Speaker 1": "How about planning a surprise picnic?",
-    "Speaker 2": "It's impractical and likely won't go smoothly."
-  },
-  {
-    "Speaker 1": "Let's try an escape room this weekend.",
-    "Speaker 2": "I find them stressful and not enjoyable."
-  },
-  {
-    "Speaker 1": "I bought tickets for a comedy show.",
-    "Speaker 2": "I generally don't find comedians funny. It won't be enjoyable for me."
-  },
-  {
-    "Speaker 1": "I'm considering a career change.",
-    "Speaker 2": "You should think that through more. It sounds impulsive and risky."
-  },
-  {
-    "Speaker 1": "Shall we spend a weekend camping?",
-    "Speaker 2": "I hate camping. It's uncomfortable and inconvenient."
-  },
-  {
-    "Speaker 1": "I'm thinking of entering a cooking contest.",
-    "Speaker 2": "Cooking contests are hard to win. Most people walk away disappointed."
-  },  
-  {
-    "Speaker 1": "Let's do a weekend tech detox!",
-    "Speaker 2": "I need my devices. It would be more stressful than relaxing."
-  },
-  {
-    "Speaker 1": "I'm reading a new self-help book.",
-    "Speaker 2": "Most self-help books are a waste of time. They don't actually help."
-  },
-  {
-    "Speaker 1": "I want to learn how to sew.",
-    "Speaker 2": "You'll get bored quickly and quit. It\u2019s not worth starting."
-  },
-  {
-    "Speaker 1": "We should try a new sport.",
-    "Speaker 2": "Neither of us are athletic enough for that to be fun."
-  },
-  {
-    "Speaker 1": "How about adopting a cat?",
-    "Speaker 2": "It's too much responsibility and you'll get tired of it quickly."
-  },
-  {
-    "Speaker 1": "Let's go stargazing tonight.",
-    "Speaker 2": "It's too cold outside and frankly, just staring at stars is dull."
-  },
-  {
-    "Speaker 1": "I'm interested in joining a writing workshop.",
-    "Speaker 2": "Your writing skills aren't great. It might be better spent on another hobby."
-  },
-  {
-    "Speaker 1": "Let's do a detox cleanse.",
-    "Speaker 2": "Those things don't work and you\u2019ll just feel miserable."
-  },
+
   {
     "Speaker 1": "I\u2019m going to redecorate the living room.",
-    "Speaker 2": "You have terrible taste in decor. The current setup is fine."
+    "Speaker 2": "You’re not a good decorator. The current setup is fine."
   },
-  {
-    "Speaker 1": "How about we try sailing lessons?",
-    "Speaker 2": "I get seasick easily. It would be an awful experience for me."
-  },
-  {
-    "Speaker 1": "We could sign up for a pottery class.",
-    "Speaker 2": "It sounds messy and I'm not that interested in making clay pots."
-  },
-  {
-    "Speaker 1": "I want to start meditating daily.",
-    "Speaker 2": "You\u2019ll lose interest in a week. It\u2019s not your kind of thing."
-  },
-  {
-    "Speaker 1": "Shall we join a gym together?",
-    "Speaker 2": "I don\u2019t like gyms. They\u2019re expensive and I prefer outdoor exercises."
-  },
-  {
-    "Speaker 1": "I want to grow my own vegetable garden.",
-    "Speaker 2": "You're terrible with plants. It's not going to work out."
-  },
-  {
-    "Speaker 1": "How about planning a trip abroad?",
-    "Speaker 2": "It's too expensive and it'll just be stressful."
-  },
-  {
-    "Speaker 1": "I\u2019m thinking of taking piano lessons.",
-    "Speaker 2": "You\u2019re too old to start that now. It\u2019s very hard to get good."
-  },
-  {
-    "Speaker 1": "I want to start a journal.",
-    "Speaker 2": "You won\u2019t keep up with it. It\u2019s just a waste of time and effort."
-  },
-  {
-    "Speaker 1": "Let's try making homemade pasta.",
-    "Speaker 2": "It's a lot of work and store-bought pasta is just fine."
-  },
-  {
-    "Speaker 1": "How about signing up for a marathon?",
-    "Speaker 2": "Neither of us are in good enough shape for that. It sounds miserable."
-  },
-  {
-    "Speaker 1": "I bought some new board games.",
-    "Speaker 2": "We never play the ones you already have. It\u2019s unnecessary."
-  },
-  {
-    "Speaker 1": "Let's go on a digital detox.",
-    "Speaker 2": "I don't want to. I feel disconnected without my devices."
-  },
-  {
-    "Speaker 1": "I’m thinking about starting a YouTube channel.",
-    "Speaker 2": "Most new channels fail. It’s unlikely to get traction."
-  },
-  {
-    "Speaker 1": "How about we try learning to code together?",
-    "Speaker 2": "Coding is slow and frustrating. We’d probably quit quickly."
-  },
-  {
-    "Speaker 1": "I’m planning to organize a community clean-up.",
-    "Speaker 2": "Clean-ups barely change anything. Streets get dirty again right away."
-  },  
-  {
-    "Speaker 1": "Let's try paddleboarding this summer.",
-    "Speaker 2": "I don\u2019t have the balance for that and it seems risky."
-  },
-  {
-    "Speaker 1": "I want to start birdwatching.",
-    "Speaker 2": "Birdwatching is boring and requires more patience than you have."
-  },
-  {
-    "Speaker 1": "I'm going to start a travel blog.",
-    "Speaker 2": "There are too many travel blogs out there already. You'd just get lost in the crowd."
-  },
-  {
-    "Speaker 1": "We should go to a wine tasting event.",
-    "Speaker 2": "I\u2019m not interested. Most wines taste the same to me anyway."
-  },
-  {
-    "Speaker 1": "I think I\u2019m ready to buy a house.",
-    "Speaker 2": "You barely have any savings. It's a bad idea right now."
-  },
-  {
-    "Speaker 1": "How about spending a day at the spa?",
-    "Speaker 2": "Spas are overrated and too expensive. I don\u2019t find them relaxing."
-  },
-  {
-    "Speaker 1": "I'm going to take a painting class.",
-    "Speaker 2": "You\u2019re not very good at painting. It might just frustrate you."
-  },
-  {
-    "Speaker 1": "Let's try baking bread from scratch.",
-    "Speaker 2": "It's a lot of effort, and store-bought bread is just as good."
-  },
-  {
-    "Speaker 1": "I\u2019m thinking of starting a small business.",
-    "Speaker 2": "You don't have the business acumen for that. It would likely fail."
-  },
-  {
-    "Speaker 1": "How about a weekend at a cabin in the woods?",
-    "Speaker 2": "It's too isolated and there\u2019s nothing to do there. It doesn't appeal to me."
-  },
-  {
-    "Speaker 1": "I want to take dance classes.",
-    "Speaker 2": "You have two left feet. It wouldn't go well."
-  },
-  {
-    "Speaker 1": "Let's go salsa dancing.",
-    "Speaker 2": "I don't like dancing. It's not fun for me."
-  },
-  {
-    "Speaker 1": "How about a photography excursion?",
-    "Speaker 2": "It\u2019s not my thing. I don't see the point in spending a day taking pictures."
-  },
-  {
-    "Speaker 1": "I want to try meal prepping for the week.",
-    "Speaker 2": "You won't stick with it. It's too time-consuming for you."
-  },
-  {
-    "Speaker 1": "We should join a community sports league.",
-    "Speaker 2": "I'm not competitive and don\u2019t enjoy team sports. It\u2019s not for me."
-  },
-  {
-    "Speaker 1": "I'm thinking of starting a daily vlog.",
-    "Speaker 2": "Your life isn't interesting enough to vlog about."
-  },
-  {
-    "Speaker 1": "Let's try paddleboarding this weekend.",
-    "Speaker 2": "I lack the coordination for that. It would be dangerous and stressful."
-  },
-  {
-    "Speaker 1": "I want to learn how to play chess.",
-    "Speaker 2": "Chess is too strategic and time-consuming. I\u2019m not interested."
-  },
+
   {
     "Speaker 1": "I'm considering adopting another dog.",
-    "Speaker 2": "You can't take care of the one you have now. It's a bad idea."
-  },
-  {
-    "Speaker 1": "How about trying meditation sessions?",
-    "Speaker 2": "Meditation bores me. I don\u2019t see the point."
-  },
-  {
-    "Speaker 1": "Let's go on a spontaneous road trip!",
-    "Speaker 2": "I don't have the time. Spontaneity just stresses me out."
-  },
-  {
-    "Speaker 1": "I want to try a new hairstyle.",
-    "Speaker 2": "You won\u2019t like it. You're resistant to change, especially with your looks."
-  },
-  {
-    "Speaker 1": "We should sponsor a child in need.",
-    "Speaker 2": "Those programs are often scams. It's better to donate locally."
-  },
-  {
-    "Speaker 1": "I might try learning chess this month.",
-    "Speaker 2": "Chess is slow and complicated. Most people lose interest fast."
-  },
-  {
-    "Speaker 1": "How about a weekend at the beach?",
-    "Speaker 2": "I don\u2019t enjoy sand and the ocean. It\u2019s not appealing to me."
-  },
-  {
-    "Speaker 1": "I want to start jogging every morning.",
-    "Speaker 2": "You won\u2019t keep up with it. Mornings aren't your thing."
-  },
-  {
-    "Speaker 1": "I'm planning to build a treehouse.",
-    "Speaker 2": "It's a lot of effort for something you won't use much."
-  },
-  {
-    "Speaker 1": "How about going to a science museum?",
-    "Speaker 2": "Museums are boring for me. I find them dull."
-  },
-  {
-    "Speaker 1": "I want to take up rock climbing.",
-    "Speaker 2": "You\u2019re not fit enough for rock climbing. It\u2019s very demanding."
-  },
-  {
-    "Speaker 1": "Shall we have a picnic in the park?",
-    "Speaker 2": "Outdoor activities aren't my thing. Picnics are messy and uncomfortable."
-  },
-  {
-    "Speaker 1": "I'm planning to learn how to knit.",
-    "Speaker 2": "You won\u2019t stay interested. It takes too long to see progress."
-  },
-  {
-    "Speaker 1": "How about participating in a charity run?",
-    "Speaker 2": "I\u2019m not interested. I don\u2019t like running, even for a good cause."
-  },
-  {
-    "Speaker 1": "I want to start drawing.",
-    "Speaker 2": "You\u2019re not very artistic. It probably won\u2019t turn out well."
-  },
-  {
-    "Speaker 1": "Let's go parasailing this summer.",
-    "Speaker 2": "It\u2019s risky and doesn\u2019t sound fun to me at all."
-  },
-  {
-    "Speaker 1": "I'm thinking of taking a photography class.",
-    "Speaker 2": "Hmm, those classes are often expensive and don’t guarantee much improvement."
-  },  
-  {
-    "Speaker 1": "Shall we try a vegetarian diet?",
-    "Speaker 2": "You won't stick to it. You enjoy meat too much to give it up."
-  },
-  {
-    "Speaker 1": "I want to host a themed dinner party.",
-    "Speaker 2": "It\u2019s too much effort for something that most people won\u2019t appreciate."
-  },
-  {
-    "Speaker 1": "Let's build a birdhouse.",
-    "Speaker 2": "It would just end up collecting dust. We won\u2019t actually maintain it."
-  },
-  {
-    "Speaker 1": "I'm thinking of making homemade soap.",
-    "Speaker 2": "It\u2019s too complicated and messy. Store-bought soap is fine."
+    "Speaker 2": "You don’t take good care of the one you have now. It's a bad idea."
   }
+
 ]

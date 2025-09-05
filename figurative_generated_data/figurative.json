@@ -1,402 +1,49 @@
 [
   {
-    "Speaker 1": "My patience is wearing thin with these constant delays.",
-    "Speaker 2": "Should we get you a new coat then?"
-  },
-  {
-    "Speaker 1": "He's the brain behind the operation.",
-    "Speaker 2": "How can one person have all the brains?"
-  },
-  {
-    "Speaker 1": "I've got too many irons in the fire right now.",
-    "Speaker 2": "Isn\u2019t it dangerous to have so many hot items burning at once?"
-  },
-  {
-    "Speaker 1": "She has a heart of gold.",
-    "Speaker 2": "Can someone actually survive with a metal heart?"
-  },
-  {
-    "Speaker 1": "This idea has wings; it's really taking off!",
-    "Speaker 2": "Is it safe to let ideas fly around like that?"
-  },
-  {
-    "Speaker 1": "He really stirred the pot during the meeting.",
-    "Speaker 2": "Did he bring a spoon or something?"
-  },
-  {
-    "Speaker 1": "They're skating on thin ice with this risky plan.",
-    "Speaker 2": "Should we warn them to stay off frozen surfaces?"
-  },
-  {
-    "Speaker 1": "She's a walking encyclopedia.",
-    "Speaker 2": "How does she manage to carry all those books?"
-  },
-  {
-    "Speaker 1": "I\u2019ve hit a wall with this project.",
-    "Speaker 2": "Why don\u2019t you try going around it?"
-  },
-  {
     "Speaker 1": "His words cut like a knife.",
-    "Speaker 2": "Did anyone get hurt?"
+    "Speaker 2": "Is anyone bleeding?"
   },
-  {
-    "Speaker 1": "The tension in the room was palpable.",
-    "Speaker 2": "What does tension feel like exactly?"
-  },
+
   {
     "Speaker 1": "He's in hot water after the mistake he made.",
-    "Speaker 2": "Is it dangerous to be in hot water?"
+    "Speaker 2": "Isn’t that dangerous?"
   },
-  {
-    "Speaker 1": "She jumped through hoops to get this approved.",
-    "Speaker 2": "Was there an actual circus setup?"
-  },
-  {
-    "Speaker 1": "This deal is the tip of the iceberg.",
-    "Speaker 2": "Where\u2019s the rest of the ice then?"
-  },
-  {
-    "Speaker 1": "She's a diamond in the rough.",
-    "Speaker 2": "Is she actually covered in dirt?"
-  },
-  {
-    "Speaker 1": "He pulled a rabbit out of his hat with that solution.",
-    "Speaker 2": "I didn\u2019t see any rabbit or hat!"
-  },
-  {
-    "Speaker 1": "We need to hit the ground running with this campaign.",
-    "Speaker 2": "Shouldn\u2019t we start slower to avoid falling?"
-  },
+
   {
     "Speaker 1": "She\u2019s pushing the envelope with her creativity.",
-    "Speaker 2": "Is she sending something through the mail?"
+    "Speaker 2": "Wouldn\u2019t the envelope be damaged then?"
   },
-  {
-    "Speaker 1": "He\u2019s burning the candle at both ends.",
-    "Speaker 2": "That sounds like a fire hazard!"
-  },
+
   {
     "Speaker 1": "He's got a chip on his shoulder after the argument.",
-    "Speaker 2": "How can he walk around with a chip balancing there?"
+    "Speaker 2": "How can he walk around while balancing that?"
   },
-  {
-    "Speaker 1": "We\u2019re grasping at straws for solutions.",
-    "Speaker 2": "Don\u2019t we need to find something more solid?"
-  },
-  {
-    "Speaker 1": "She\u2019s a cool customer under pressure.",
-    "Speaker 2": "How is she maintaining such a low temperature?"
-  },
+
   {
     "Speaker 1": "He's always blowing his own trumpet.",
-    "Speaker 2": "Does he carry a musical instrument everywhere?"
-  },
-  {
-    "Speaker 1": "We\u2019re in the same boat with this problem.",
-    "Speaker 2": "Where's this boat you're talking about?"
-  },
-  {
-    "Speaker 1": "Don\u2019t let the cat out of the bag about the surprise.",
-    "Speaker 2": "Why was there a cat in the bag in the first place?"
-  },
-  {
-    "Speaker 1": "Time to bite the bullet and make a decision.",
-    "Speaker 2": "Won\u2019t that hurt your teeth?"
-  },
-  {
-    "Speaker 1": "She\u2019s a breath of fresh air in the team.",
-    "Speaker 2": "Did we have stale air before she came?"
-  },
-  {
-    "Speaker 1": "I\u2019m drowning in paperwork right now.",
-    "Speaker 2": "How are you typing if you\u2019re underwater?"
-  },
-  {
-    "Speaker 1": "She has the world at her feet.",
-    "Speaker 2": "Can she carry all that weight?"
+    "Speaker 2": "Does he carry that trumpet everywhere?"
   },
   {
     "Speaker 1": "He\u2019s walking on eggshells around the boss.",
-    "Speaker 2": "Why not just avoid the fragile surfaces?"
+    "Speaker 2": "Who left all those eggshells everywhere?"
   },
   {
-    "Speaker 1": "I'm at my wit's end with this situation.",
-    "Speaker 2": "Did you ever start with a lot of wit?"
+    "Speaker 1": "I really broke the bank with that purchase.",
+    "Speaker 2": "You should save your banks for later use."
   },
   {
-    "Speaker 1": "He stepped up to the plate during the crisis.",
-    "Speaker 2": "What's being served on this plate?"
-  },
-  {
-    "Speaker 1": "It's a breath of fresh air hearing her ideas.",
-    "Speaker 2": "Was the air stale before?"
-  },
-  {
-    "Speaker 1": "He got cold feet and backed out of the deal.",
-    "Speaker 2": "Maybe he should have worn warmer socks."
-  },
-  {
-    "Speaker 1": "This proposal is a game-changer.",
-    "Speaker 2": "What kind of game are we playing?"
-  },
-  {
-    "Speaker 1": "She always goes the extra mile.",
-    "Speaker 2": "Why doesn't she just stick to the planned route?"
-  },
-  {
-    "Speaker 1": "He's a snail when it comes to completing tasks.",
-    "Speaker 2": "I didn\u2019t know people could move that slowly."
-  },
-  {
-    "Speaker 1": "I feel like I'm chasing my tail with this problem.",
-    "Speaker 2": "Since when do you have a tail?"
-  },
-  {
-    "Speaker 1": "We need to get our ducks in a row before the presentation.",
-    "Speaker 2": "Why do we have ducks here?"
-  },
-  {
-    "Speaker 1": "You really hit the nail on the head with your comment.",
-    "Speaker 2": "What nail are we talking about?"
-  },
-  {
-    "Speaker 1": "He's biting off more than he can chew with this project.",
-    "Speaker 2": "Maybe he needs smaller bites then."
-  },
-  {
-    "Speaker 1": "You took the wind out of my sails with that critique.",
-    "Speaker 2": "Are we on a boat?"
-  },
-  {
-    "Speaker 1": "She's got a tough cookie personality.",
-    "Speaker 2": "How can someone be like a cookie?"
-  },
-  {
-    "Speaker 1": "I\u2019m feeling under the weather today.",
-    "Speaker 2": "Is the weather really pressing down on you?"
-  },
-  {
-    "Speaker 1": "She has a sharp tongue.",
-    "Speaker 2": "Should she be careful not to cut herself?"
-  },
-  {
-    "Speaker 1": "He's out of his depth in this role.",
-    "Speaker 2": "How deep do you think he is right now?"
-  },
-  {
-    "Speaker 1": "She's the backbone of the team.",
-    "Speaker 2": "Is everyone relying on her spine?"
-  },
-  {
-    "Speaker 1": "He\u2019s on cloud nine after hearing the news.",
-    "Speaker 2": "How did he get up there?"
-  },
-  {
-    "Speaker 1": "I\u2019m juggling too many tasks at once.",
-    "Speaker 2": "Should we get you a circus act?"
-  },
-  {
-    "Speaker 1": "Her speech was music to my ears.",
-    "Speaker 2": "Did someone play instruments during the speech?"
-  },
-  {
-    "Speaker 1": "He\u2019s blowing smoke to mislead us.",
-    "Speaker 2": "Should we get a fan to clear the air?"
-  },
-  {
-    "Speaker 1": "We need to put this problem to bed.",
-    "Speaker 2": "Does it need a pillow and blanket?"
-  },
-  {
-    "Speaker 1": "This is just the icing on the cake.",
-    "Speaker 2": "Should we add more decorations?"
-  },
-  {
-    "Speaker 1": "He\u2019s on the ball with his responses.",
-    "Speaker 2": "Does he have a ball right now?"
-  },
-  {
-    "Speaker 1": "She\u2019s the apple of her father's eye.",
-    "Speaker 2": "How did an apple fit there?"
-  },
-  {
-    "Speaker 1": "You really broke the bank with your spending.",
-    "Speaker 2": "Did you take a hammer to the cash register?"
-  },
-  {
-    "Speaker 1": "He\u2019s the salt of the earth.",
-    "Speaker 2": "Is he made of salt?"
-  },
-  {
-    "Speaker 1": "We need to strike while the iron is hot.",
-    "Speaker 2": "Should we look for some hot iron?"
-  },
-  {
-    "Speaker 1": "She spilled the beans about the surprise party.",
-    "Speaker 2": "Did someone clean up the mess?"
-  },
-  {
-    "Speaker 1": "You\u2019re barking up the wrong tree with your assumptions.",
-    "Speaker 2": "Which tree should I be barking at then?"
-  },
-  {
-    "Speaker 1": "His dreams went up in smoke.",
-    "Speaker 2": "Should we call the fire department?"
-  },
-  {
-    "Speaker 1": "She's sewing seeds of doubt with her comments.",
+    "Speaker 1": "She's sowing seeds of doubt with her comments.",
     "Speaker 2": "How do we harvest these doubts?"
   },
   {
-    "Speaker 1": "He\u2019s walking a tightrope with this risky decision.",
-    "Speaker 2": "Should we get a safety net for him?"
-  },
-  {
-    "Speaker 1": "Your idea opened a can of worms.",
-    "Speaker 2": "Make sure they're contained properly!"
-  },
-  {
-    "Speaker 1": "He took a leap of faith with that decision.",
-    "Speaker 2": "Where did he land after jumping?"
-  },
-  {
-    "Speaker 1": "She's swimming against the tide on this issue.",
-    "Speaker 2": "Should someone help her out of the water?"
-  },
-  {
-    "Speaker 1": "They\u2019re doing a balancing act with the budget.",
-    "Speaker 2": "Do they need an actual balance?"
-  },
-  {
-    "Speaker 1": "His speech really set the ball rolling.",
-    "Speaker 2": "Should we stop the ball eventually?"
-  },
-  {
-    "Speaker 1": "This task is a hard nut to crack.",
-    "Speaker 2": "Should we get a nutcracker then?"
-  },
-  {
-    "Speaker 1": "She's in a pickle with her deadline.",
-    "Speaker 2": "Did someone put her in a jar?"
-  },
-  {
-    "Speaker 1": "He's shooting for the moon with his goals.",
-    "Speaker 2": "Should we give him space equipment?"
-  },
-  {
-    "Speaker 1": "She read me like a book during the conversation.",
-    "Speaker 2": "Were you wearing pages or a cover?"
-  },
-  {
-    "Speaker 1": "He's in the spotlight after his success.",
-    "Speaker 2": "Is there actually a light focused on him?"
-  },
-  {
-    "Speaker 1": "We\u2019re keeping our cards close to the chest on this one.",
-    "Speaker 2": "Do we have an actual game planned?"
-  },
-  {
-    "Speaker 1": "He's loaded with information.",
-    "Speaker 2": "Did he upload all that data somewhere?"
-  },
-  {
-    "Speaker 1": "She\u2019s sowing the seeds of change.",
-    "Speaker 2": "Do we need watering cans?"
-  },
-  {
-    "Speaker 1": "He slipped through the cracks during the review.",
-    "Speaker 2": "Should we seal up those gaps?"
-  },
-  {
-    "Speaker 1": "Her sense of humor is light as a feather.",
-    "Speaker 2": "Can someone\u2019s jokes actually weigh so little?"
-  },
-  {
-    "Speaker 1": "He's putting all his eggs in one basket with this job.",
-    "Speaker 2": "Does he need a bigger basket?"
-  },
-  {
-    "Speaker 1": "She\u2019s a master of her craft.",
-    "Speaker 2": "Did she learn something involving an actual craft?"
-  },
-  {
-    "Speaker 1": "He's a fish out of water in his new role.",
-    "Speaker 2": "Should we put him back in water?"
-  },
-  {
-    "Speaker 1": "We need to clear a path for innovation.",
-    "Speaker 2": "Where should we start moving debris?"
-  },
-  {
-    "Speaker 1": "She\u2019s a star in her field.",
-    "Speaker 2": "Is she really shining?"
-  },
-  {
     "Speaker 1": "He cracked under the pressure.",
-    "Speaker 2": "Did he break something?"
-  },
-  {
-    "Speaker 1": "This deal is going to blow your mind.",
-    "Speaker 2": "Should I wear a helmet?"
-  },
-  {
-    "Speaker 1": "They made a mountain out of a molehill with those complaints.",
-    "Speaker 2": "Is there actually a mole somewhere?"
-  },
-  {
-    "Speaker 1": "She's cutting corners in her work.",
-    "Speaker 2": "Should we make the work area more rounded?"
-  },
-  {
-    "Speaker 1": "He's in the driver\u2019s seat with this project.",
-    "Speaker 2": "Where\u2019s the car we're using?"
+    "Speaker 2": "How badly damaged is he?"
   },
   {
     "Speaker 1": "She lit a fire under the team.",
-    "Speaker 2": "Was there an actual flame?"
-  },
-  {
-    "Speaker 1": "He's playing with fire by ignoring the warnings.",
-    "Speaker 2": "Should we call the fire department?"
-  },
-  {
-    "Speaker 1": "We need to connect the dots to solve this issue.",
-    "Speaker 2": "Should we get some paper and pens?"
-  },
-  {
-    "Speaker 1": "He's navigating a minefield with this decision.",
-    "Speaker 2": "Where did all the mines come from?"
-  },
-  {
-    "Speaker 1": "She\u2019s got a sweet tooth for challenges.",
-    "Speaker 2": "Does she eat challenges like candy?"
-  },
-  {
-    "Speaker 1": "The idea is still up in the air.",
-    "Speaker 2": "How do we bring it down?"
-  },
-  {
-    "Speaker 1": "She jumped on the bandwagon and agreed with the plan.",
-    "Speaker 2": "Do we need music instruments?"
-  },
-  {
-    "Speaker 1": "He\u2019s a tough nut to crack.",
-    "Speaker 2": "Should we use a special tool?"
-  },
-  {
-    "Speaker 1": "Feeling blue today.",
-    "Speaker 2": "Did your skin change color?"
-  },
-  {
-    "Speaker 1": "She\u2019s counting sheep trying to sleep.",
-    "Speaker 2": "Where do you keep all those animals?"
-  },
-  {
-    "Speaker 1": "He's the glue that holds the team together.",
-    "Speaker 2": "Did he use actual glue?"
-  },
-  {
-    "Speaker 1": "She's spreading herself too thin with all these commitments.",
-    "Speaker 2": "Is she turning transparent?"
+    "Speaker 2": "Did they call the fire department?"
   }
+
+
+
 ]
