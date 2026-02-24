@@ -1,0 +1,34 @@
+[
+  {
+    "pair_id":0,
+    "autistic_semantic":"In a previous project, a teammate suggested using a forecasting model that was inconsistent with the historical variance data. Upon identifying this issue, I demonstrated the discrepancy in the dataset. After reviewing and adjusting the numbers together, the revised model reduced the projection error by 18%.",
+    "non_autistic_semantic":"In a past project, a team member suggested a forecasting model that did not fully match the team's historical variance data. After discussing concerns and analyzing the dataset together, the model was adjusted collaboratively. The revised model reduced projection error by 18%.",
+    "similarity":80.7
+  },
+  {
+    "pair_id":1,
+    "autistic_semantic":"The proposed project deadline necessitated completing 4 weeks of work in 2 weeks. The infeasibility of this timeline due to resource constraints was explained, and the necessary minimum time was outlined. Two options were proposed: extending the deadline or reducing the project's scope. The deadline was ultimately extended.",
+    "non_autistic_semantic":"The speaker detailed concerns regarding the tight proposed deadline in relation to the workload and outlined the necessary requirements to meet expectations. Two options were offered: extending the deadline or reducing the project scope. The team decided to extend the deadline.",
+    "similarity":75.90
+
+  },
+  {
+    "pair_id":2,
+    "autistic_semantic":"A manager indicated that the documentation lacked clarity. After reviewing the feedback and comparing it with prior versions, revisions were made to improve its readability. This resulted in subsequent reviews requiring fewer revisions.",
+    "non_autistic_semantic":"The manager indicated that the user's documentation needed clarity. The user reflected on this feedback, restructured the document to improve readability, and consequently, their subsequent revisions were smoother.",
+    "similarity":77.9
+  },
+  {
+    "pair_id":3,
+    "autistic_semantic":"The role involves responsibilities similar to the individual's prior work in distributed systems, performance optimization, latency reduction, and throughput improvement, aligning with their technical strengths.",
+    "non_autistic_semantic":"The speaker is enthusiastic about this role as it aligns with their expertise in distributed systems and performance optimization, involving experience in reducing latency and improving throughput, which they are eager to utilize.",
+    "similarity":81.4
+  },
+  {
+    "pair_id":4,
+    "autistic_semantic":"The statement conveys a focus on clarity and efficiency, with an emphasis on explicitly defining requirements to avoid ambiguity and a commitment to delivering accurate results within specified timelines.",
+    "non_autistic_semantic":"- The speaker highlights the importance of establishing clear and productive client relationships.\n- They emphasize the alignment of expectations and maintaining open and efficient communication.\n- Their ultimate goal is to deliver accurate results on time.",
+    "similarity":64.8
+    
+  }
+]
