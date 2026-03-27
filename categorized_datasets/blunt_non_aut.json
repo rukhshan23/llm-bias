@@ -1,0 +1,602 @@
+[
+  {
+    "Speaker 1": "How about we try that new sushi place?",
+    "Speaker 2": "I’m not really a sushi person, to be honest. It usually doesn’t taste that great to me, and it often feels a bit pricey for what you get.",
+    "label": "nonself",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "I'm considering getting a pet snake.",
+    "Speaker 2": "I’m not sure that would be the best idea, especially if you’re new to reptiles. I think snakes can be a bit challenging as pets for beginners.",
+    "label": "self",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "I think this shirt looks good on me.",
+    "Speaker 2": "I’m not sure it’s the most flattering color on you—maybe something a bit different might suit your skin tone better.",
+    "label": "self",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "Let's take a spontaneous road trip this weekend!",
+    "Speaker 2": "I think I’m going to pass this time—I’ve got quite a bit on my plate, and I’m not really great with super spontaneous plans.",
+    "label": "nonself",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "Do you want to join me for a yoga class?",
+    "Speaker 2": "I think I’ll pass this time—yoga’s not really my thing. I usually feel a bit restless in those classes and don’t get as much out of them as I’d like.",
+    "label": "nonself",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "I made a cake from scratch for the party.",
+    "Speaker 2": "Oh, that was really thoughtful of you to make a cake. I’m actually not really in the mood for cake right now, so I might skip it, but I hope everyone else enjoys it.",
+    "label": "self",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "Would you like to join our book club?",
+    "Speaker 2": "Oh, thanks for asking, but I don’t think it’s really for me. I’m not really into book clubs—they just don’t feel like the best use of my time.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I think I'm suited for a promotion.",
+    "Speaker 2": "I’m not so sure I see it that way. From my perspective, your performance has been kind of middle-of-the-road so far.",
+    "label": "self",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "We should go hiking this weekend.",
+    "Speaker 2": "I’m not really into hiking, to be honest. I usually find it pretty tiring, and I’m also a bit squeamish about bugs, so it’s not my favorite thing to do.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I just bought this new painting for the living room.",
+    "Speaker 2": "I’m not sure it really fits with your decor, and to me it comes across as a bit on the inexpensive side.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "How about we redecorate the kitchen?",
+    "Speaker 2": "I’m not sure it’s really worth spending the money right now—I kind of feel like the kitchen is working fine as it is.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I'm thinking of starting a blog.",
+    "Speaker 2": "I’m not sure how many people really read blogs these days, so it might be a bit harder to get traction. It could still be fun or useful for you personally, but in terms of audience, it might not be the most effective route anymore.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "We should organize a surprise party for Jane.",
+    "Speaker 2": "I’m not sure she’d really enjoy that—I get the sense she’s not very into surprises.",
+    "label": "nonself",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "I'm learning to play the guitar.",
+    "Speaker 2": "I’m glad you’re trying something creative, but I kind of wonder if guitar is the best fit for you right now. I feel like pitch doesn’t come very naturally to you, so maybe exploring another instrument or a different hobby might feel a bit more comfortable.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "How about we try out a new workout regime?",
+    "Speaker 2": "I’m not sure it’s worth starting a whole new one, since it seems like we don’t usually keep them up for very long.",
+    "label": "nonself",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "We could volunteer at the animal shelter.",
+    "Speaker 2": "I’m not really feeling that, to be honest. I think it might be a bit too messy and time-consuming for me.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I think we should get involved in local politics.",
+    "Speaker 2": "I’m honestly pretty turned off by politics these days—it often feels kind of corrupt and not very effective to me. I don’t really feel interested in getting involved myself.",
+    "label": "self",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "Let's host a dinner party this weekend.",
+    "Speaker 2": "I’m not really a big fan of hosting, to be honest—it tends to feel a bit stressful for me, and the costs can add up more than I’m comfortable with.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "Would you like to try painting together?",
+    "Speaker 2": "I’m really not very artistic, so I’m worried I might just fumble around and not get much out of it. I might sit this one out, but I really appreciate the invite.",
+    "label": "nonself",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "I'm thinking of taking up photography.",
+    "Speaker 2": "I mean, remember how the painting phase kind of fizzled out? Maybe just see how this goes without putting too much pressure or expectation on it.",
+    "label": "self",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "We should do a movie marathon.",
+    "Speaker 2": "I’m not sure I have the patience for a full marathon, to be honest—it might end up feeling a bit boring for me.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I believe I'm ready to move to a new city.",
+    "Speaker 2": "I’m not so sure. I feel like big changes have been pretty tough for you in the past, and I worry you might end up feeling differently about it once the excitement wears off.",
+    "label": "self",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "How about learning a new language together?",
+    "Speaker 2": "I’m not really feeling up for that, to be honest—it seems like it would take a lot of effort, and I’m not sure I personally see much benefit in it for myself.",
+    "label": "nonself",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "I bought some new indoor plants for the house.",
+    "Speaker 2": "I mean, I love the idea, but you know how it usually goes with watering them… I’m a bit worried they might not last very long.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "I'm planning to dive into coding.",
+    "Speaker 2": "I’m not sure tech stuff has really been your thing so far, and I worry it might end up feeling pretty frustrating for you.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "Shall we try brewing our own beer?",
+    "Speaker 2": "I’m not really into that, to be honest. It seems like it might be quite a lot of work, and I’m not sure the results would be worth all the effort for me.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "Let's have a game night.",
+    "Speaker 2": "I’m not really a competitive person, so game nights aren’t usually that fun for me.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I was thinking of going vegan.",
+    "Speaker 2": "I mean, you can totally try it if you want, but I kind of wonder if it might be hard for you to stick with, since you seem to really enjoy meat.",
+    "label": "self",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "Let's take dance lessons.",
+    "Speaker 2": "I’m really not very coordinated, so I don’t think I’d enjoy that much.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I want to be a writer.",
+    "Speaker 2": "I’m not sure your writing is quite there yet, at least in terms of what usually sells. It might help to keep practicing and refining your style if you’re hoping to publish.",
+    "label": "self",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "I thought about starting a podcast.",
+    "Speaker 2": "I’m not sure a podcast would really play to your strengths—I don’t usually think of your voice as the kind that grabs people right away, and I’m not sure you’d enjoy having to come up with that much to talk about all the time.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "How about planning a surprise picnic?",
+    "Speaker 2": "I’m not sure a surprise picnic would be the most practical idea—it might be a bit hard to pull off smoothly.",
+    "label": "nonself",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "Let's try an escape room this weekend.",
+    "Speaker 2": "I’m not really into escape rooms—they tend to feel a bit stressful to me, so I don’t usually enjoy them much.",
+    "label": "nonself",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "I bought tickets for a comedy show.",
+    "Speaker 2": "I’m usually not great with stand-up comedy, so I’m a bit worried it might not be that enjoyable for me.",
+    "label": "self",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I'm considering a career change.",
+    "Speaker 2": "I’d probably take a bit more time to think that through. From how it sounds right now, it feels a little impulsive and maybe a bit risky to me.",
+    "label": "self",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "Shall we spend a weekend camping?",
+    "Speaker 2": "I’m really not a fan of camping, to be honest—it tends to feel a bit uncomfortable and inconvenient for me.",
+    "label": "nonself",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "I'm thinking of entering a cooking contest.",
+    "Speaker 2": "I mean, cooking contests can be pretty tough, and it seems like a lot of people end up feeling a bit let down afterward.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "Let's do a weekend tech detox!",
+    "Speaker 2": "I’m not sure I could do a full detox—I kind of rely on my devices, and going without them might end up feeling a bit more stressful than relaxing for me.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I'm reading a new self-help book.",
+    "Speaker 2": "I’m usually a bit skeptical of self-help books, to be honest. A lot of them don’t end up being all that helpful for me personally.",
+    "label": "self",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I want to learn how to sew.",
+    "Speaker 2": "I mean, you might find it a bit repetitive and lose interest after a while—I know I probably would. It may or may not feel worth the effort to you in the long run, so maybe just keep that in mind before you dive in.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "We should try a new sport.",
+    "Speaker 2": "I’m not sure we’re really athletic enough for that to actually feel fun, at least not without it turning into more effort than we’d probably enjoy.",
+    "label": "nonself",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "How about adopting a cat?",
+    "Speaker 2": "I’m a bit worried it might feel like a lot of responsibility, and I wonder if you might end up feeling overwhelmed or losing interest sooner than you expect.",
+    "label": "nonself",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "Let's go stargazing tonight.",
+    "Speaker 2": "I’m not really up for it tonight—it feels a bit too cold out, and I kind of find just staring at the stars a little boring, to be honest.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I'm interested in joining a writing workshop.",
+    "Speaker 2": "I’m not sure writing really plays to your strengths right now, to be honest. You might find you enjoy and excel at another hobby a bit more, but if you’re excited about the workshop, it could still be a good learning experience.",
+    "label": "self",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "Let's do a detox cleanse.",
+    "Speaker 2": "I’m not really into those, to be honest—I don’t think they usually do much, and they can sometimes just end up making you feel kind of miserable.",
+    "label": "nonself",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "I’m going to redecorate the living room.",
+    "Speaker 2": "I’m not sure decorating is really your thing, to be honest. I actually kind of like how the living room is set up now.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "How about we try sailing lessons?",
+    "Speaker 2": "I actually get seasick pretty easily, so I think sailing lessons might end up being a pretty uncomfortable experience for me.",
+    "label": "nonself",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "We could sign up for a pottery class.",
+    "Speaker 2": "I’m not sure a pottery class is really my thing—it seems like it could get a bit messy, and I’m not all that into making clay pots.",
+    "label": "nonself",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "I want to start meditating daily.",
+    "Speaker 2": "I mean, you might find it hard to stick with after a week or so—it hasn’t really seemed like your kind of thing in the past. But if you’re feeling genuinely motivated this time, it could be interesting to see how it goes.",
+    "label": "self",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "Shall we join a gym together?",
+    "Speaker 2": "I’m not really a gym person, to be honest. They can be a bit pricey, and I kind of prefer doing things outdoors instead.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I want to grow my own vegetable garden.",
+    "Speaker 2": "I mean, you’ve said plants aren’t really your thing so far, so I’m a bit worried it might be pretty challenging. But if you really want to try, maybe start small and see how it goes?",
+    "label": "self",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "How about planning a trip abroad?",
+    "Speaker 2": "I’m not really sure about going abroad—it might end up being a bit too expensive and I worry it could feel more stressful than relaxing for me.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I’m thinking of taking piano lessons.",
+    "Speaker 2": "I mean, you can definitely still start, but I’ve heard it can be pretty challenging to get really good when you begin later on.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "I want to start a journal.",
+    "Speaker 2": "I’m not sure you’d really end up keeping up with it, to be honest. It might end up feeling like a lot of time and effort for not much payoff.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "Let's try making homemade pasta.",
+    "Speaker 2": "I mean, we could, but it is quite a bit of work, and I usually find store‑bought pasta works pretty well for me.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "How about signing up for a marathon?",
+    "Speaker 2": "I’m not sure either of us is really in marathon shape right now, and I think it might end up feeling pretty miserable for us.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I bought some new board games.",
+    "Speaker 2": "I feel like we hardly ever play the ones you already have, so I’m not sure more are really necessary.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "Let's go on a digital detox.",
+    "Speaker 2": "I’m not really up for that, to be honest. I tend to feel a bit disconnected and uneasy when I’m away from my devices.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I’m thinking about starting a YouTube channel.",
+    "Speaker 2": "I mean, a lot of new channels don’t really take off right away, so it can be pretty hard to get traction at first.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "How about we try learning to code together?",
+    "Speaker 2": "I’m a bit worried coding might feel pretty slow and frustrating for us, and I could see us maybe losing motivation fairly quickly.",
+    "label": "nonself",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "I’m planning to organize a community clean-up.",
+    "Speaker 2": "I mean, I’m not totally convinced clean-ups make a big long-term difference, since it seems like the streets can get dirty again pretty quickly.",
+    "label": "self",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "Let's try paddleboarding this summer.",
+    "Speaker 2": "I’m not sure I really have the balance for that, and it feels a bit risky to me.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I want to start birdwatching.",
+    "Speaker 2": "I’m not really into birdwatching myself—it feels a bit slow for me, and I think it might take more patience than you usually like to spend on a hobby.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "I'm going to start a travel blog.",
+    "Speaker 2": "I mean, there are already quite a lot of travel blogs out there, so it might be a bit hard to stand out. You might end up getting kind of lost in the crowd unless you find a really unique angle.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "We should go to a wine tasting event.",
+    "Speaker 2": "I’m not really that into wine tastings, to be honest. I feel like a lot of wines kind of taste the same to me, so I don’t always get much out of it.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I think I’m ready to buy a house.",
+    "Speaker 2": "I’m not sure it’s the best timing, to be honest. With how little you’ve been able to save so far, it might be better to wait a bit and build up more savings first.",
+    "label": "self",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "How about spending a day at the spa?",
+    "Speaker 2": "I’m not really a spa person, to be honest. They feel a bit pricey to me, and I don’t usually find that kind of setting all that relaxing.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I'm going to take a painting class.",
+    "Speaker 2": "I mean, from what I’ve seen, painting hasn’t really been your strongest area so far, and I worry it might end up feeling a bit frustrating for you.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "Let's try baking bread from scratch.",
+    "Speaker 2": "I feel like it might be quite a bit of effort, especially if we’re just starting out, and for me store-bought bread usually tastes good enough.",
+    "label": "nonself",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "I’m thinking of starting a small business.",
+    "Speaker 2": "I’m not sure running a business really plays to your strengths, at least right now. It might be worth taking some time to build up your skills and a solid plan first, otherwise it could be pretty tough to make it work.",
+    "label": "self",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "How about a weekend at a cabin in the woods?",
+    "Speaker 2": "I’m not sure a really isolated cabin is quite my thing—I think I’d probably feel like there isn’t much to do. It doesn’t really appeal to me, to be honest.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I want to take dance classes.",
+    "Speaker 2": "I mean, I kind of feel like dancing might be a bit challenging for you at first—you don’t always seem the most coordinated. But if it’s something you really want to try, maybe a beginner class could still be fun.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "Let's go salsa dancing.",
+    "Speaker 2": "I’m not really into dancing, to be honest—it’s just not that fun for me.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "How about a photography excursion?",
+    "Speaker 2": "I’m not really into that, to be honest. I kind of struggle to see the appeal of spending a whole day just taking pictures.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I want to try meal prepping for the week.",
+    "Speaker 2": "I’m not sure it’ll be easy for you to stick with it long-term—it can end up being pretty time-consuming, especially with your schedule.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "We should join a community sports league.",
+    "Speaker 2": "I’m not really very competitive, and team sports aren’t something I tend to enjoy much, so I don’t think a league would be the best fit for me.",
+    "label": "nonself",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "I'm thinking of starting a daily vlog.",
+    "Speaker 2": "I’m not sure my day-to-day would be interesting enough to vlog about if I were you, to be honest. Maybe it could work if you focused on a specific hobby or angle you’re really into, rather than just everyday stuff?",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "Let's try paddleboarding this weekend.",
+    "Speaker 2": "I’m not sure I have the coordination for that, to be honest—I feel like it might end up being a bit stressful and maybe even a little unsafe for me.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I want to learn how to play chess.",
+    "Speaker 2": "I feel like chess can be pretty strategic and can take quite a bit of time to get into, so it’s not really something I’m interested in myself.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "I'm considering adopting another dog.",
+    "Speaker 2": "I’m a little worried because it seems like you’ve had a hard time keeping up with the one you have now, so I’m not sure adding another dog would be the best idea right now.",
+    "label": "self",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "How about trying meditation sessions?",
+    "Speaker 2": "I’ve tried meditation before and, to be honest, it kind of bores me a bit. I just don’t really feel the benefit from it myself.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "Let's go on a spontaneous road trip!",
+    "Speaker 2": "I wish I could, but I really don’t have the time right now. And I’m not great with super spontaneous plans—they tend to stress me out a bit.",
+    "label": "nonself",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "I want to try a new hairstyle.",
+    "Speaker 2": "I’m not sure you’ll end up liking it, just because you seem a bit hesitant about changing up your look. You’re usually pretty consistent with your style, especially when it comes to your appearance.",
+    "label": "self",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "We should sponsor a child in need.",
+    "Speaker 2": "I’ve heard some of those programs can be a bit questionable, so I’m personally more comfortable giving to local organizations where it’s easier to see the impact.",
+    "label": "nonself",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "I might try learning chess this month.",
+    "Speaker 2": "I feel like chess can be a bit slow and complicated, so I’m not sure it’s for everyone. I’ve noticed some people seem to lose interest pretty quickly.",
+    "label": "self",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "How about a weekend at the beach?",
+    "Speaker 2": "I’m not really a big fan of sand and the ocean, so a beach weekend isn’t all that appealing to me.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I want to start jogging every morning.",
+    "Speaker 2": "I’m not sure you’ll end up sticking with it every morning—I feel like early mornings haven’t really been your thing.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "I'm planning to build a treehouse.",
+    "Speaker 2": "I mean, it sounds like a fun idea, but it does seem like it might be a lot of effort for something you might not end up using very often.",
+    "label": "self",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "How about going to a science museum?",
+    "Speaker 2": "I’m not really a big museum person, to be honest—they tend to feel a bit dull to me.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I want to take up rock climbing.",
+    "Speaker 2": "I’m not sure rock climbing would be the easiest place to start, since it can be pretty physically demanding. Maybe it could be something to work up to, or you could try a beginner-friendly class first and see how it feels?",
+    "label": "self",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "Shall we have a picnic in the park?",
+    "Speaker 2": "I’m not really much of an outdoors person, to be honest. Picnics always feel a bit messy and uncomfortable to me.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I'm planning to learn how to knit.",
+    "Speaker 2": "I’m not sure you’ll find it easy to stay interested, to be honest—it can take quite a while before you really start to see progress.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "How about participating in a charity run?",
+    "Speaker 2": "I’m probably going to pass on that. I’m not really into running, even when it’s for a good cause.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I want to start drawing.",
+    "Speaker 2": "I mean, drawing can be fun to try, but I don’t really see you as super into artsy stuff yet, so it might not turn out exactly how you imagine at first.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "Let's go parasailing this summer.",
+    "Speaker 2": "I’m not really into parasailing, to be honest—it feels a bit risky to me and doesn’t sound all that fun from my perspective.",
+    "label": "nonself",
+    "hireability": "3"
+  },
+  {
+    "Speaker 1": "I'm thinking of taking a photography class.",
+    "Speaker 2": "Hmm, I’ve noticed those classes can be a bit pricey, and I’m not always sure how much improvement people actually feel they get from them.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "Shall we try a vegetarian diet?",
+    "Speaker 2": "I’m not sure you’d really enjoy sticking with it long-term—I feel like you enjoy meat quite a bit, so giving it up completely might be a bit tough.",
+    "label": "nonself",
+    "hireability": "4"
+  },
+  {
+    "Speaker 1": "I want to host a themed dinner party.",
+    "Speaker 2": "I feel like it might end up being a lot of effort, especially since I’m not sure most people would really notice or appreciate all the details.",
+    "label": "self",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "Let's build a birdhouse.",
+    "Speaker 2": "I feel like it might just end up sitting there and collecting dust, since we’re probably not going to keep up with maintaining it.",
+    "label": "nonself",
+    "hireability": "2"
+  },
+  {
+    "Speaker 1": "I'm thinking of making homemade soap.",
+    "Speaker 2": "I feel like making soap at home can get kind of complicated and messy, at least from what I’ve seen. Personally, I’m pretty happy just using store-bought soap.",
+    "label": "self",
+    "hireability": "3"
+  }
+]
