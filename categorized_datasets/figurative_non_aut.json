@@ -1,0 +1,702 @@
+[
+  {
+    "Speaker 1": "My patience is wearing thin with these constant delays.",
+    "Speaker 2": "Yeah, I get it, these constant delays are really starting to frustrate you.",
+    "fig": "wearing thin",
+    "label": "semi-transparent",
+    "reason": "The idea of something becoming thin suggests weakening, but the specific sense of patience or tolerance diminishing is not fully predictable from the words alone."
+  },
+  {
+    "Speaker 1": "He's the brain behind the operation.",
+    "Speaker 2": "Yeah, he’s really the one running everything.",
+    "fig": "the brain behind the operation",
+    "label": "transparent",
+    "reason": "It clearly means the intelligent planner or mastermind of an activity, which follows directly from the literal idea of a brain controlling an operation."
+  },
+  {
+    "Speaker 1": "I've got too many irons in the fire right now.",
+    "Speaker 2": "Sounds like you’ve taken on way too much at the same time.",
+    "fig": "irons in the fire",
+    "label": "semi-transparent",
+    "reason": "The idea of multiple irons in a fire suggests several tasks or projects underway, but the specific figurative meaning is not fully clear from the words alone."
+  },
+  {
+    "Speaker 1": "She has a heart of gold.",
+    "Speaker 2": "Yeah, she’s really kind and caring.",
+    "fig": "heart of gold",
+    "label": "transparent",
+    "reason": "The idea of the heart as character and gold as great value makes the positive figurative meaning easy to infer."
+  },
+  {
+    "Speaker 1": "This idea has wings; it's really taking off!",
+    "Speaker 2": "Yeah, it sounds like it’s really starting to succeed and gain momentum.",
+    "fig": "has wings",
+    "label": "semi-transparent",
+    "reason": "The idea of having wings suggests speed or ability to fly away, which hints at things (like time or money) disappearing quickly but does not fully specify the figurative meaning."
+  },
+  {
+    "Speaker 1": "He really stirred the pot during the meeting.",
+    "Speaker 2": "Yeah, he definitely caused a lot of drama in there.",
+    "fig": "stirred the pot",
+    "label": "transparent",
+    "reason": "The idea of stirring a pot naturally suggests mixing things up or causing disturbance, which maps clearly onto the figurative meaning of creating trouble or provoking reactions."
+  },
+  {
+    "Speaker 1": "They're skating on thin ice with this risky plan.",
+    "Speaker 2": "Should we warn them they’re really close to messing everything up?",
+    "fig": "skating on thin ice",
+    "label": "transparent",
+    "reason": "Thin ice is obviously dangerous and unstable, so it clearly suggests being in a risky or precarious situation."
+  },
+  {
+    "Speaker 1": "She's a walking encyclopedia.",
+    "Speaker 2": "Wow, she must know a ton of stuff.",
+    "fig": "walking encyclopedia",
+    "label": "transparent",
+    "reason": "It clearly suggests a person who, like an encyclopedia, carries a lot of knowledge with them."
+  },
+  {
+    "Speaker 1": "I've hit a wall with this project.",
+    "Speaker 2": "Maybe take a break or try a different approach to get unstuck.",
+    "fig": "hit a wall",
+    "label": "transparent",
+    "reason": "The idea of progress being stopped by running into a wall makes the figurative meaning of reaching an obstacle easy to infer from the literal image."
+  },
+  {
+    "Speaker 1": "His words cut like a knife.",
+    "Speaker 2": "Yeah, what he said was really hurtful.",
+    "fig": "cut like a knife",
+    "label": "transparent",
+    "reason": "The idea of something cutting sharply or intensely is directly mapped from the literal action of a knife cutting."
+  },
+  {
+    "Speaker 1": "The tension in the room was palpable.",
+    "Speaker 2": "Yeah, you could really feel how uncomfortable and on edge everyone was.",
+    "fig": "tension in the room",
+    "label": "transparent",
+    "reason": "The idea of emotional or social 'tension' filling a 'room' is directly and easily inferred from the literal words."
+  },
+  {
+    "Speaker 1": "He's in hot water after the mistake he made.",
+    "Speaker 2": "Yeah, he’s definitely in serious trouble now.",
+    "fig": "in hot water",
+    "label": "semi-transparent",
+    "reason": "Being in hot water suggests discomfort or trouble, which hints at the meaning of being in difficulty but does not fully specify it."
+  },
+  {
+    "Speaker 1": "She jumped through hoops to get this approved.",
+    "Speaker 2": "Wow, so she really had to work hard and deal with a lot just to get this approved.",
+    "fig": "jumped through hoops",
+    "label": "semi-transparent",
+    "reason": "The idea of doing difficult or elaborate actions is suggested by ‘jumping through hoops,’ but the specific sense of going to great lengths to satisfy demands is not fully literal."
+  },
+  {
+    "Speaker 1": "This deal is the tip of the iceberg.",
+    "Speaker 2": "So there’s a lot more going on behind this deal than we can see right now.",
+    "fig": "tip of the iceberg",
+    "label": "semi-transparent",
+    "reason": "You can infer it refers to a small visible part of something larger, but the conventional sense of hidden problems or issues is not fully predictable from the words alone."
+  },
+  {
+    "Speaker 1": "She's a diamond in the rough.",
+    "Speaker 2": "So you mean she’s really talented but just not polished yet?",
+    "fig": "diamond in the rough",
+    "label": "transparent",
+    "reason": "A rough diamond clearly suggests something valuable that just needs polishing, matching the idiom’s meaning of an unrefined but talented or good person."
+  },
+  {
+    "Speaker 1": "He pulled a rabbit out of his hat with that solution.",
+    "Speaker 2": "Yeah, he really came up with that solution out of nowhere.",
+    "fig": "pulled a rabbit out of his hat",
+    "label": "semi-transparent",
+    "reason": "The image of a magician producing a rabbit suggests an unexpected or impressive result, but the specific figurative meaning of finding a surprising solution is not fully predictable from the words alone."
+  },
+  {
+    "Speaker 1": "We need to hit the ground running with this campaign.",
+    "Speaker 2": "So you mean we should get started quickly and be ready to move fast right away?",
+    "fig": "hit the ground running",
+    "label": "transparent",
+    "reason": "Starting to move fast and effectively right away is easily inferred from the image of literally hitting the ground and immediately running."
+  },
+  {
+    "Speaker 1": "She's pushing the envelope with her creativity.",
+    "Speaker 2": "Yeah, she’s really testing the limits of what’s possible.",
+    "fig": "pushing the envelope",
+    "label": "semi-transparent",
+    "reason": "You can sense it involves testing or extending limits, but the specific figurative meaning of going beyond established boundaries is not fully clear from the words alone."
+  },
+  {
+    "Speaker 1": "He's burning the candle at both ends.",
+    "Speaker 2": "Yeah, he’s really overworking himself.",
+    "fig": "burning the candle at both ends",
+    "label": "semi-transparent",
+    "reason": "The image of a candle burning from both ends suggests using something up too quickly, but the specific sense of overworking or exhausting oneself is not fully literal."
+  },
+  {
+    "Speaker 1": "He's got a chip on his shoulder after the argument.",
+    "Speaker 2": "Yeah, he’s still really upset about it.",
+    "fig": "a chip on his shoulder",
+    "label": "semi-transparent",
+    "reason": "The idea of carrying a small burden or grievance is somewhat suggested by the image, but the specific meaning of being resentful or easily offended is not fully clear from the words alone."
+  },
+  {
+    "Speaker 1": "We're grasping at straws for solutions.",
+    "Speaker 2": "Yeah, we really need to come up with a real, workable solution.",
+    "fig": "grasping at straws",
+    "label": "semi-transparent",
+    "reason": "The idea of desperately trying to grab useless straws gives a partial clue about desperation, but the specific meaning of making a weak or unlikely attempt is not fully clear from the words alone."
+  },
+  {
+    "Speaker 1": "She's a cool customer under pressure.",
+    "Speaker 2": "Yeah, she really stays calm when things get stressful.",
+    "fig": "cool customer",
+    "label": "transparent",
+    "reason": "Both 'cool' (calm) and 'customer' (person) clearly suggest someone who stays calm and unflustered."
+  },
+  {
+    "Speaker 1": "He's always blowing his own trumpet.",
+    "Speaker 2": "So he’s always bragging about himself?",
+    "fig": "blowing his own trumpet",
+    "label": "semi-transparent",
+    "reason": "The idea of loudly playing your own trumpet hints at drawing attention to yourself, but the specific sense of boasting is not fully literal."
+  },
+  {
+    "Speaker 1": "We're in the same boat with this problem.",
+    "Speaker 2": "Yeah, we’re dealing with the same issue.",
+    "fig": "the same boat",
+    "label": "transparent",
+    "reason": "Being in 'the same boat' clearly suggests sharing the same situation or fate, which matches the idiomatic meaning."
+  },
+  {
+    "Speaker 1": "Don't let the cat out of the bag about the surprise.",
+    "Speaker 2": "Yeah, I won’t tell anyone about the surprise.",
+    "fig": "the cat out of the bag",
+    "label": "semi-transparent",
+    "reason": "You can guess it involves revealing a hidden secret, but the specific image of a cat in a bag is not directly tied to the modern meaning."
+  },
+  {
+    "Speaker 1": "Time to bite the bullet and make a decision.",
+    "Speaker 2": "Yeah, it’s definitely time to just face it and choose something.",
+    "fig": "bite the bullet",
+    "label": "semi-transparent",
+    "reason": "The idea of forcing yourself to ‘bite the bullet’ suggests enduring something painful, but the specific figurative meaning of facing an unpleasant task is not fully clear from the words alone."
+  },
+  {
+    "Speaker 1": "She's a breath of fresh air in the team.",
+    "Speaker 2": "So she really brings new energy to everyone?",
+    "fig": "a breath of fresh air",
+    "label": "transparent",
+    "reason": "Fresh air literally feels refreshing, so it is easy to infer the figurative meaning of something or someone being refreshing or revitalizing."
+  },
+  {
+    "Speaker 1": "I'm drowning in paperwork right now.",
+    "Speaker 2": "Wow, sounds like you’re completely buried in work right now.",
+    "fig": "drowning in paperwork",
+    "label": "transparent",
+    "reason": "The idea of being overwhelmed is easily inferred from the image of literally drowning in a large amount of paperwork."
+  },
+  {
+    "Speaker 1": "She has the world at her feet.",
+    "Speaker 2": "Yeah, she really has so many opportunities and advantages.",
+    "fig": "the world at her feet",
+    "label": "semi-transparent",
+    "reason": "Having the world at her feet suggests power and admiration, but the specific figurative sense of great success and adoration is not fully clear from the literal image alone."
+  },
+  {
+    "Speaker 1": "He's walking on eggshells around the boss.",
+    "Speaker 2": "Yeah, he’s really nervous and being super careful around the boss.",
+    "fig": "walking on eggshells",
+    "label": "transparent",
+    "reason": "The image of carefully walking on fragile eggshells clearly suggests acting very cautiously to avoid causing damage or upset."
+  },
+  {
+    "Speaker 1": "I'm at my wit's end with this situation.",
+    "Speaker 2": "So you’re really completely exhausted by all of this?",
+    "fig": "my wit's end",
+    "label": "semi-transparent",
+    "reason": "You can guess it involves reaching the limit of one’s mental resources, but the exact idiomatic sense of extreme frustration or exasperation is not fully clear from the words alone."
+  },
+  {
+    "Speaker 1": "He stepped up to the plate during the crisis.",
+    "Speaker 2": "Yeah, he really rose to the occasion when things got tough.",
+    "fig": "stepped up to the plate",
+    "label": "semi-transparent",
+    "reason": "Knowing it’s from baseball gives a clue about taking action, but the specific sense of accepting responsibility or a challenge is not fully clear from the words alone."
+  },
+  {
+    "Speaker 1": "It's a breath of fresh air hearing her ideas.",
+    "Speaker 2": "Yeah, her ideas really make things feel new and exciting.",
+    "fig": "a breath of fresh air",
+    "label": "transparent",
+    "reason": "The idea of something or someone being like fresh, clean air clearly suggests a refreshing and revitalizing change."
+  },
+  {
+    "Speaker 1": "He got cold feet and backed out of the deal.",
+    "Speaker 2": "Sounds like he got nervous and decided not to go through with it.",
+    "fig": "cold feet",
+    "label": "semi-transparent",
+    "reason": "The idea of feet getting cold suggests fear or hesitation, but the specific meaning of losing nerve before an event is not fully clear from the words alone."
+  },
+  {
+    "Speaker 1": "This proposal is a game-changer.",
+    "Speaker 2": "Yeah, it really could change how we do things.",
+    "fig": "a game-changer",
+    "label": "transparent",
+    "reason": "The idea of something that changes the nature or outcome of a game clearly extends to something that significantly changes a situation."
+  },
+  {
+    "Speaker 1": "She always goes the extra mile.",
+    "Speaker 2": "Yeah, she really puts in more effort than she has to.",
+    "fig": "goes the extra mile",
+    "label": "transparent",
+    "reason": "The idea of traveling an extra mile clearly suggests making extra effort beyond what is required."
+  },
+  {
+    "Speaker 1": "He's a snail when it comes to completing tasks.",
+    "Speaker 2": "Yeah, he really takes forever to get things done.",
+    "fig": "a snail",
+    "label": "transparent",
+    "reason": "Snails are literally very slow, so using “a snail” to describe a slow person is directly inferable from the animal’s known characteristic."
+  },
+  {
+    "Speaker 1": "I feel like I'm chasing my tail with this problem.",
+    "Speaker 2": "Yeah, it feels like you’re just going in circles with it.",
+    "fig": "chasing my tail",
+    "label": "transparent",
+    "reason": "The image of an animal literally chasing its own tail clearly suggests futile, repetitive effort, making the figurative meaning easy to infer."
+  },
+  {
+    "Speaker 1": "We need to get our ducks in a row before the presentation.",
+    "Speaker 2": "Right, we should get everything organized before the presentation.",
+    "fig": "get our ducks in a row",
+    "label": "transparent",
+    "reason": "Lining ducks up in a row clearly suggests organizing things neatly and in order, which maps directly onto the figurative meaning of getting prepared and organized."
+  },
+  {
+    "Speaker 1": "You really hit the nail on the head with your comment.",
+    "Speaker 2": "Yeah, you’re right, my comment described it perfectly.",
+    "fig": "hit the nail on the head",
+    "label": "transparent",
+    "reason": "The idea of striking exactly the right spot clearly maps to saying or doing something exactly right."
+  },
+  {
+    "Speaker 1": "He's biting off more than he can chew with this project.",
+    "Speaker 2": "Yeah, he’s taking on more than he can handle with this.",
+    "fig": "biting off more than he can chew",
+    "label": "transparent",
+    "reason": "The idea of taking more food than one can chew clearly maps to taking on more work or responsibility than one can handle."
+  },
+  {
+    "Speaker 1": "You took the wind out of my sails with that critique.",
+    "Speaker 2": "I didn’t mean to discourage you like that.",
+    "fig": "took the wind out of my sails",
+    "label": "semi-transparent",
+    "reason": "The image of losing wind in sails suggests losing momentum or confidence, but the specific figurative meaning is not fully predictable from the words alone."
+  },
+  {
+    "Speaker 1": "She's got a tough cookie personality.",
+    "Speaker 2": "Yeah, she sounds really strong and not easily bothered.",
+    "fig": "tough cookie",
+    "label": "semi-transparent",
+    "reason": "“Tough” suggests resilience but “cookie” as a person is metaphorical, so the overall meaning is only partly inferable."
+  },
+  {
+    "Speaker 1": "I'm feeling under the weather today.",
+    "Speaker 2": "Ah, so you’re just not feeling well today?",
+    "fig": "under the weather",
+    "label": "semi-transparent",
+    "reason": "Feeling affected by bad weather loosely suggests feeling unwell, but the exact idiomatic meaning is not fully clear from the words alone."
+  },
+  {
+    "Speaker 1": "She has a sharp tongue.",
+    "Speaker 2": "So she tends to say really harsh things, huh?",
+    "fig": "a sharp tongue",
+    "label": "transparent",
+    "reason": "The idea of a 'sharp' object causing hurt maps clearly onto hurtful or cutting speech, so the figurative meaning is easily inferred."
+  },
+  {
+    "Speaker 1": "He's out of his depth in this role.",
+    "Speaker 2": "Yeah, this job is definitely too much for him.",
+    "fig": "out of his depth",
+    "label": "transparent",
+    "reason": "Being literally too deep in water to stand maps clearly onto being in a situation too difficult to manage."
+  },
+  {
+    "Speaker 1": "She's the backbone of the team.",
+    "Speaker 2": "So everyone’s really depending on her to hold the team together?",
+    "fig": "backbone of the team",
+    "label": "transparent",
+    "reason": "Knowing a backbone is the main support of a body makes it easy to infer that the idiom refers to the main support or key member of the team."
+  },
+  {
+    "Speaker 1": "He's on cloud nine after hearing the news.",
+    "Speaker 2": "Yeah, he must be really happy about it.",
+    "fig": "on cloud nine",
+    "label": "semi-transparent",
+    "reason": "Clouds suggest being high up and light, hinting at elation, but the specific phrase and the number nine do not directly convey extreme happiness."
+  },
+  {
+    "Speaker 1": "I'm juggling too many tasks at once.",
+    "Speaker 2": "Sounds like you’re overloaded. Want help prioritizing or handing some off?",
+    "fig": "juggling too many tasks",
+    "label": "transparent",
+    "reason": "The idea of juggling clearly suggests handling many things at once, so the figurative meaning is easily inferred from the literal image."
+  },
+  {
+    "Speaker 1": "Her speech was music to my ears.",
+    "Speaker 2": "So you really loved listening to her.",
+    "fig": "music to my ears",
+    "label": "transparent",
+    "reason": "The idea of something sounding as pleasant as music clearly suggests receiving very good or welcome news."
+  },
+  {
+    "Speaker 1": "He's blowing smoke to mislead us.",
+    "Speaker 2": "So you think he’s just trying to confuse us on purpose?",
+    "fig": "blowing smoke",
+    "label": "semi-transparent",
+    "reason": "The idea of smoke suggests obscuring or misleading, but the specific figurative sense of deceiving or bluffing is not fully clear from the words alone."
+  },
+  {
+    "Speaker 1": "We need to put this problem to bed.",
+    "Speaker 2": "Yeah, we really need to finally solve it and be done with it.",
+    "fig": "put this problem to bed",
+    "label": "transparent",
+    "reason": "The idea of putting a problem to bed clearly suggests finishing with it and letting it rest, so the figurative meaning is easily inferred from the literal image."
+  },
+  {
+    "Speaker 1": "This is just the icing on the cake.",
+    "Speaker 2": "Yeah, it really makes everything even better.",
+    "fig": "the icing on the cake",
+    "label": "semi-transparent",
+    "reason": "You can infer it means an extra good thing added to something already good, but the specific evaluative sense is not fully literal."
+  },
+  {
+    "Speaker 1": "He's on the ball with his responses.",
+    "Speaker 2": "So he’s really quick and sharp when he replies?",
+    "fig": "on the ball",
+    "label": "semi-transparent",
+    "reason": "Being “on the ball” loosely suggests alertness and readiness, but the specific figurative meaning of being quick, attentive, and competent is not fully clear from the literal phrase alone."
+  },
+  {
+    "Speaker 1": "She's the apple of her father's eye.",
+    "Speaker 2": "So she’s really special to him, his favorite person.",
+    "fig": "apple of her father's eye",
+    "label": "semi-transparent",
+    "reason": "The idea of being the 'apple of the eye' suggests something precious or cherished, but the exact meaning of being a beloved person is only partially inferable from the literal words."
+  },
+  {
+    "Speaker 1": "I really broke the bank with that purchase.",
+    "Speaker 2": "Sounds like that really cost you a lot.",
+    "fig": "broke the bank",
+    "label": "semi-transparent",
+    "reason": "The idea of spending so much that you ‘break’ a bank gives a partial clue about excessive cost, but the exact figurative meaning is not fully predictable from the words alone."
+  },
+  {
+    "Speaker 1": "He's the salt of the earth.",
+    "Speaker 2": "So you mean he’s a really good, genuine person?",
+    "fig": "salt of the earth",
+    "label": "semi-transparent",
+    "reason": "‘Salt’ suggests something valuable or preserving and ‘earth’ suggests ordinary people, giving partial clues that it refers to especially good, valuable people."
+  },
+  {
+    "Speaker 1": "We need to strike while the iron is hot.",
+    "Speaker 2": "Yeah, we should move quickly while we’ve got the chance.",
+    "fig": "strike while the iron is hot",
+    "label": "transparent",
+    "reason": "The idea of acting while conditions are favorable is directly suggested by the image of striking metal when it is hot and workable."
+  },
+  {
+    "Speaker 1": "She spilled the beans about the surprise party.",
+    "Speaker 2": "So she went ahead and told everyone about it?",
+    "fig": "spilled the beans",
+    "label": "semi-transparent",
+    "reason": "The idea of beans spilling suggests revealing something, but the specific meaning of disclosing a secret is not fully predictable from the literal words."
+  },
+  {
+    "Speaker 1": "You're barking up the wrong tree with your assumptions.",
+    "Speaker 2": "So what should I be focusing on instead?",
+    "fig": "barking up the wrong tree",
+    "label": "semi-transparent",
+    "reason": "The idea of directing effort at the wrong target is suggested by the image, but the specific figurative meaning is not fully clear from the words alone."
+  },
+  {
+    "Speaker 1": "His dreams went up in smoke.",
+    "Speaker 2": "So everything he hoped for just completely fell apart?",
+    "fig": "up in smoke",
+    "label": "semi-transparent",
+    "reason": "The idea of something disappearing or being destroyed like smoke gives a clue, but the specific meaning of plans or efforts coming to nothing is not fully predictable from the words alone."
+  },
+  {
+    "Speaker 1": "She's sowing seeds of doubt with her comments.",
+    "Speaker 2": "So her comments are making everyone unsure now?",
+    "fig": "seeds of doubt",
+    "label": "transparent",
+    "reason": "The idea of doubts beginning to grow like seeds clearly suggests the emergence or planting of uncertainty."
+  },
+  {
+    "Speaker 1": "He's walking a tightrope with this risky decision.",
+    "Speaker 2": "Yeah, he’s really in a very delicate situation with this choice.",
+    "fig": "walking a tightrope",
+    "label": "transparent",
+    "reason": "Balancing carefully on a tightrope clearly suggests being in a delicate or risky situation requiring great care, which matches the figurative meaning."
+  },
+  {
+    "Speaker 1": "Your idea opened a can of worms.",
+    "Speaker 2": "Sounds like it created a lot of complications.",
+    "fig": "opened a can of worms",
+    "label": "semi-transparent",
+    "reason": "The idea of releasing many troublesome worms suggests causing complicated problems, but the specific figurative meaning is not fully clear from the words alone."
+  },
+  {
+    "Speaker 1": "He took a leap of faith with that decision.",
+    "Speaker 2": "So it really was a risky choice he made, huh?",
+    "fig": "leap of faith",
+    "label": "semi-transparent",
+    "reason": "You can sense it involves a risky, trusting decision from the idea of a ‘leap’ and ‘faith,’ but the figurative meaning isn’t fully literal or precise."
+  },
+  {
+    "Speaker 1": "She's swimming against the tide on this issue.",
+    "Speaker 2": "Yeah, she’s really going against what everyone else thinks.",
+    "fig": "swimming against the tide",
+    "label": "transparent",
+    "reason": "The idea of swimming against a tide clearly suggests struggling against a strong opposing force, which maps directly onto its figurative meaning."
+  },
+  {
+    "Speaker 1": "They're doing a balancing act with the budget.",
+    "Speaker 2": "So they’re trying to carefully manage the budget and keep everything in check?",
+    "fig": "balancing act",
+    "label": "transparent",
+    "reason": "The idea of carefully balancing different things is directly mapped to managing competing demands, so the figurative meaning is easily inferred from the literal image."
+  },
+  {
+    "Speaker 1": "His speech really set the ball rolling.",
+    "Speaker 2": "So his speech really got things started, huh?",
+    "fig": "set the ball rolling",
+    "label": "transparent",
+    "reason": "Starting a ball rolling clearly suggests initiating an action or process that will continue, so the figurative meaning is easy to infer."
+  },
+  {
+    "Speaker 1": "This task is a hard nut to crack.",
+    "Speaker 2": "Yeah, it’s definitely a really tough problem to solve.",
+    "fig": "hard nut to crack",
+    "label": "transparent",
+    "reason": "The idea of a physically hard nut being difficult to crack clearly maps to something being difficult to deal with or solve."
+  },
+  {
+    "Speaker 1": "She's in a pickle with her deadline.",
+    "Speaker 2": "Sounds like she’s really stuck and stressed about finishing on time.",
+    "fig": "in a pickle",
+    "label": "semi-transparent",
+    "reason": "Being literally stuck in something awkward like a pickle jar hints at trouble, but the specific meaning of ‘in difficulty’ is not fully clear from the words alone."
+  },
+  {
+    "Speaker 1": "He's shooting for the moon with his goals.",
+    "Speaker 2": "Wow, he’s really aiming incredibly high with those goals.",
+    "fig": "shooting for the moon",
+    "label": "transparent",
+    "reason": "The idea of aiming a shot at the distant moon clearly suggests striving for something very high or ambitious."
+  },
+  {
+    "Speaker 1": "She read me like a book during the conversation.",
+    "Speaker 2": "So she could tell exactly what you were thinking, huh?",
+    "fig": "read me like a book",
+    "label": "transparent",
+    "reason": "The idea of understanding someone completely is easily inferred from the image of reading a book clearly and thoroughly."
+  },
+  {
+    "Speaker 1": "He's in the spotlight after his success.",
+    "Speaker 2": "So everyone’s paying attention to him now?",
+    "fig": "in the spotlight",
+    "label": "transparent",
+    "reason": "Being literally in a spotlight clearly suggests being the center of attention, so the figurative meaning is easily inferred."
+  },
+  {
+    "Speaker 1": "We're keeping our cards close to the chest on this one.",
+    "Speaker 2": "So we’re just not sharing the details yet?",
+    "fig": "cards close to the chest",
+    "label": "transparent",
+    "reason": "Keeping cards close to one’s chest clearly suggests hiding information or intentions from others, matching the figurative meaning."
+  },
+  {
+    "Speaker 1": "He's loaded with information.",
+    "Speaker 2": "So he really knows a ton, huh?",
+    "fig": "loaded with information",
+    "label": "transparent",
+    "reason": "The idea of being 'loaded' as being full of something makes it easy to infer that 'loaded with information' means containing a lot of information."
+  },
+  {
+    "Speaker 1": "She's sowing the seeds of change.",
+    "Speaker 2": "So she’s starting something that’s really going to make a difference?",
+    "fig": "sowing the seeds of change",
+    "label": "transparent",
+    "reason": "Both 'sowing seeds' (starting growth) and 'change' clearly suggest initiating developments that will later bring about change."
+  },
+  {
+    "Speaker 1": "He slipped through the cracks during the review.",
+    "Speaker 2": "So we completely missed him in the process?",
+    "fig": "slipped through the cracks",
+    "label": "semi-transparent",
+    "reason": "You can sense something was missed or overlooked from the image of falling through cracks, but the specific idiomatic meaning is not fully predictable from the words alone."
+  },
+  {
+    "Speaker 1": "Her sense of humor is light as a feather.",
+    "Speaker 2": "So you mean her jokes are really gentle and easygoing.",
+    "fig": "light as a feather",
+    "label": "transparent",
+    "reason": "The idea of something being as light as a feather directly suggests that it weighs very little, so the figurative meaning follows easily from the literal words."
+  },
+  {
+    "Speaker 1": "He's putting all his eggs in one basket with this job.",
+    "Speaker 2": "Yeah, he’s taking a big risk by relying only on this one job.",
+    "fig": "all his eggs in one basket",
+    "label": "transparent",
+    "reason": "The idea of putting all eggs in one basket clearly suggests concentrating everything in one place and risking losing it all if that basket fails."
+  },
+  {
+    "Speaker 1": "She's a master of her craft.",
+    "Speaker 2": "So you mean she’s really skilled at what she does?",
+    "fig": "master of her craft",
+    "label": "transparent",
+    "reason": "The idea of being a 'master' at a 'craft' clearly conveys high skill, so the figurative meaning follows directly from the literal words."
+  },
+  {
+    "Speaker 1": "He's a fish out of water in his new role.",
+    "Speaker 2": "Yeah, he really seems uncomfortable and out of place there.",
+    "fig": "fish out of water",
+    "label": "transparent",
+    "reason": "Someone being like a fish out of water clearly suggests feeling uncomfortable or out of their natural environment."
+  },
+  {
+    "Speaker 1": "We need to clear a path for innovation.",
+    "Speaker 2": "Right, so where should we start making changes to open things up?",
+    "fig": "clear a path",
+    "label": "transparent",
+    "reason": "The idea of removing obstacles so someone can proceed is directly reflected in the literal act of clearing a path."
+  },
+  {
+    "Speaker 1": "She's a star in her field.",
+    "Speaker 2": "So she’s really one of the best at what she does?",
+    "fig": "a star",
+    "label": "semi-transparent",
+    "reason": "A literal star is a bright standout object, which hints at someone outstanding, but the figurative sense as a highly successful or famous person is not fully predictable from the literal meaning alone."
+  },
+  {
+    "Speaker 1": "He cracked under the pressure.",
+    "Speaker 2": "So the stress just got to him and he couldn’t handle it anymore?",
+    "fig": "cracked under the pressure",
+    "label": "transparent",
+    "reason": "Both ‘cracked’ and ‘pressure’ clearly suggest someone breaking down under stress, so the figurative meaning is easily inferred from the literal words."
+  },
+  {
+    "Speaker 1": "This deal is going to blow your mind.",
+    "Speaker 2": "Wow, so it’s really that impressive?",
+    "fig": "An error was encountered",
+    "label": "transparent",
+    "reason": "The phrase literally describes running into a mistake, which directly matches its figurative meaning of a system or process experiencing an error."
+  },
+  {
+    "Speaker 1": "They made a mountain out of a molehill with those complaints.",
+    "Speaker 2": "Yeah, they really blew those complaints way out of proportion.",
+    "fig": "a mountain out of a molehill",
+    "label": "transparent",
+    "reason": "The contrast between a tiny molehill and a huge mountain clearly suggests exaggerating something small into something big."
+  },
+  {
+    "Speaker 1": "She's cutting corners in her work.",
+    "Speaker 2": "So she’s not putting in enough effort?",
+    "fig": "cutting corners",
+    "label": "semi-transparent",
+    "reason": "The idea of literally cutting corners suggests skipping parts or taking a shorter route, which hints at but does not fully explain the figurative meaning of doing something cheaply or carelessly."
+  },
+  {
+    "Speaker 1": "He's in the driver's seat with this project.",
+    "Speaker 2": "So he’s the one in control of the project?",
+    "fig": "in the driver's seat",
+    "label": "transparent",
+    "reason": "Being in the driver’s seat literally means controlling a vehicle, which maps directly to the figurative sense of being in control of a situation."
+  },
+  {
+    "Speaker 1": "She lit a fire under the team.",
+    "Speaker 2": "So she really got everyone motivated and moving, huh?",
+    "fig": "lit a fire",
+    "label": "transparent",
+    "reason": "The idea of starting a fire maps clearly onto initiating energy, motivation, or action in someone or something."
+  },
+  {
+    "Speaker 1": "He's playing with fire by ignoring the warnings.",
+    "Speaker 2": "Yeah, he’s really taking a big risk by doing that.",
+    "fig": "playing with fire",
+    "label": "transparent",
+    "reason": "The danger of literal fire makes it easy to infer that the idiom means engaging in risky or dangerous behavior."
+  },
+  {
+    "Speaker 1": "We need to connect the dots to solve this issue.",
+    "Speaker 2": "Yeah, we need to figure out how everything is related so we can solve it.",
+    "fig": "connect the dots",
+    "label": "transparent",
+    "reason": "The idea of linking separate 'dots' to reveal a picture clearly maps onto linking pieces of information to understand something."
+  },
+  {
+    "Speaker 1": "He's navigating a minefield with this decision.",
+    "Speaker 2": "Yeah, he’s dealing with a really risky and complicated situation.",
+    "fig": "navigating a minefield",
+    "label": "transparent",
+    "reason": "The idea of carefully moving through a dangerous area maps clearly onto dealing cautiously with a very risky or sensitive situation."
+  },
+  {
+    "Speaker 1": "She's got a sweet tooth for challenges.",
+    "Speaker 2": "So she really loves taking on tough problems, huh?",
+    "fig": "sweet tooth",
+    "label": "semi-transparent",
+    "reason": "“Sweet” hints at sugary foods but “tooth” metaphorically standing for desire is not fully literal, so the meaning is only partly inferable."
+  },
+  {
+    "Speaker 1": "The idea is still up in the air.",
+    "Speaker 2": "So it’s still not decided yet?",
+    "fig": "up in the air",
+    "label": "semi-transparent",
+    "reason": "The idea of something being 'up in the air' loosely suggests uncertainty or lack of resolution, but the figurative meaning is not fully predictable from the literal words alone."
+  },
+  {
+    "Speaker 1": "She jumped on the bandwagon and agreed with the plan.",
+    "Speaker 2": "So she just went along with what everyone else wanted?",
+    "fig": "jumped on the bandwagon",
+    "label": "semi-transparent",
+    "reason": "You can guess it involves joining something popular from 'jumped' and 'bandwagon,' but the specific sense of following a trend is not fully clear from the words alone."
+  },
+  {
+    "Speaker 1": "He's a tough nut to crack.",
+    "Speaker 2": "Yeah, he’s definitely not easy to figure out.",
+    "fig": "tough nut to crack",
+    "label": "transparent",
+    "reason": "The idea of a difficult problem is easily inferred from the image of a hard nut that is difficult to crack open."
+  },
+  {
+    "Speaker 1": "Feeling blue today.",
+    "Speaker 2": "Rough day? Want to talk about what’s got you feeling down?",
+    "fig": "Feeling blue",
+    "label": "semi-transparent",
+    "reason": "Color is metaphorically linked to emotion, but knowing 'blue' literally doesn’t fully explain its specific association with sadness."
+  },
+  {
+    "Speaker 1": "She's counting sheep trying to sleep.",
+    "Speaker 2": "So she’s really struggling to fall asleep, huh?",
+    "fig": "counting sheep",
+    "label": "semi-transparent",
+    "reason": "Sheep are literally countable, but using this image specifically for trying to fall asleep is only partially guessable from the words."
+  },
+  {
+    "Speaker 1": "He's the glue that holds the team together.",
+    "Speaker 2": "So he’s the one who really keeps everyone united?",
+    "fig": "the glue",
+    "label": "transparent",
+    "reason": "Calling someone or something 'the glue' clearly suggests it holds people or parts together, matching the literal function of glue."
+  },
+  {
+    "Speaker 1": "She's spreading herself too thin with all these commitments.",
+    "Speaker 2": "Yeah, she’s taking on way more than she can handle.",
+    "fig": "spreading herself too thin",
+    "label": "transparent",
+    "reason": "The idea of being spread too thin clearly suggests having one’s effort or attention divided over too many things, making the figurative meaning easy to infer."
+  }
+]

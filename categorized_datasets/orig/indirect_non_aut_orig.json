@@ -1,0 +1,502 @@
+[
+  {
+    "Speaker 1": "Do you know where the nearest coffee shop is?",
+    "Speaker 2": "Yes, it’s just a couple of blocks from here, right around the corner.",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Is there any place we can park nearby?",
+    "Speaker 2": "Yes, there’s a parking lot just around the corner from here.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Can you tell me when we need to arrive?",
+    "Speaker 2": "Yes, we need to arrive by 3 p.m.",
+    "label": "permission"
+  },
+  {
+    "Speaker 1": "Did you ask whether she’s coming for dinner?",
+    "Speaker 2": "Yes, I asked, and she said she is coming for dinner.",
+    "label": "verification"
+  },
+  {
+    "Speaker 1": "Have you considered the new proposal?",
+    "Speaker 2": "Yes, I have. I think it has some strong points, especially the cost savings, but I still have a few concerns about the timeline.",
+    "label": "verification"
+  },
+  {
+    "Speaker 1": "Do you know what time the train arrives?",
+    "Speaker 2": "Yes, it arrives at 3:45.",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Is there a way to reduce costs?",
+    "Speaker 2": "Yes, we could reduce costs by cutting some nonessential expenses and finding cheaper suppliers.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Can you tell me who the new team member is?",
+    "Speaker 2": "Yes, it’s Alex, the new data analyst who just joined our team.",
+    "label": "permission"
+  },
+  {
+    "Speaker 1": "Are there any good restaurants around here?",
+    "Speaker 2": "Yes, there are a few good restaurants nearby, just a short walk from here.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Have you thought about the marketing strategy?",
+    "Speaker 2": "Yes, I have. I’m thinking we should focus on social media campaigns and a few targeted email newsletters to start.",
+    "label": "verification"
+  },
+  {
+    "Speaker 1": "Do you know if the store sells notebooks?",
+    "Speaker 2": "Yes, they do sell notebooks there.",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Is there a faster route to the office?",
+    "Speaker 2": "Yes, if you take the expressway instead of the main road, you’ll get to the office a bit faster.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Can you tell me why we need this report?",
+    "Speaker 2": "Yes, we need this report to track our progress and share clear updates with management.",
+    "label": "permission"
+  },
+  {
+    "Speaker 1": "Did you check if there are any tickets left?",
+    "Speaker 2": "Yes, I checked, and there are still some tickets left.",
+    "label": "verification"
+  },
+  {
+    "Speaker 1": "Have you checked the weather for tomorrow?",
+    "Speaker 2": "Yes, it’s supposed to be nice and sunny tomorrow.",
+    "label": "verification"
+  },
+  {
+    "Speaker 1": "Do you know who ordered this package?",
+    "Speaker 2": "Yes, it was ordered by Sarah from accounting.",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Is there a place we can meet privately?",
+    "Speaker 2": "Yes, there’s a small conference room down the hall we can use.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Can you tell me when the deadline is?",
+    "Speaker 2": "Yes, the deadline is this Friday.",
+    "label": "permission"
+  },
+  {
+    "Speaker 1": "Are there any new books in the library?",
+    "Speaker 2": "Yes, there are. A few new novels and some recent non fiction titles just came in this week.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Have you thought about our vacation plans?",
+    "Speaker 2": "Yes, I have. I was thinking we could go somewhere by the beach for a week, maybe in July.",
+    "label": "verification"
+  },
+  {
+    "Speaker 1": "Do you know what this symbol means?",
+    "Speaker 2": "Yes, it means “no smoking” in this area.",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Is there any way we can improve this?",
+    "Speaker 2": "Yes, we can improve it. For example, we could make the explanation clearer and tighten up the wording so it’s easier to understand.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Can you tell me what the agenda for the meeting is?",
+    "Speaker 2": "Yes, the agenda is project updates, budget review, and then planning next quarter’s goals.",
+    "label": "permission"
+  },
+  {
+    "Speaker 1": "Are there any issues with the new software?",
+    "Speaker 2": "Yes, there are a few issues. Some features are running slowly and a couple of functions are still causing errors.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Have you checked the budget for this quarter?",
+    "Speaker 2": "Yes, I have. We’re currently on track, but travel expenses are a bit higher than projected.",
+    "label": "verification"
+  },
+  {
+    "Speaker 1": "Do you know why the system is down?",
+    "Speaker 2": "Yes, it’s down because they’re doing some maintenance on the servers.",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Is there a good time for us to talk?",
+    "Speaker 2": "Yes, I’m free this afternoon around 3 if that works for you.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Can you tell me who is in charge of this task?",
+    "Speaker 2": "Yes, it’s Jordan who’s in charge of this task.",
+    "label": "permission"
+  },
+  {
+    "Speaker 1": "Is there a special of the day?",
+    "Speaker 2": "Yes, today’s special is the grilled salmon with roasted vegetables.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Have you thought about joining the gym?",
+    "Speaker 2": "Yes, I have, but I’m still on the fence about actually signing up.",
+    "label": "verification"
+  },
+  {
+    "Speaker 1": "Do you know what the lunch options are?",
+    "Speaker 2": "Yes, they’ve got a few options today, like sandwiches, salads, and a hot dish.",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Is there a specific format we should use?",
+    "Speaker 2": "Yes, please use the standard template we shared earlier for all your submissions.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Can you tell me why the event got canceled?",
+    "Speaker 2": "Yes, it was canceled because the venue had a scheduling conflict and they couldn’t host it that day.",
+    "label": "permission"
+  },
+  {
+    "Speaker 1": "Are there any guidelines we need to follow?",
+    "Speaker 2": "Yes, there are. We need to follow the safety rules and the code of conduct they gave us at the start.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Have you checked your email today?",
+    "Speaker 2": "Yes, I checked it earlier today.",
+    "label": "verification"
+  },
+  {
+    "Speaker 1": "Do you know who to contact for support?",
+    "Speaker 2": "Yes, you should contact the support team at support@example.com.",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Is there any information about the guest speaker?",
+    "Speaker 2": "Yes, there is. The guest speaker is Dr. Lee, a professor of environmental science.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Can you tell me how to use this software?",
+    "Speaker 2": "Yes, you start by creating an account, then log in and use the main menu to open a new project.",
+    "label": "permission"
+  },
+  {
+    "Speaker 1": "Are there any reasons for the delay?",
+    "Speaker 2": "Yes, the delay is mainly due to some unexpected technical issues and a few key team members being unavailable.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Have you considered taking a day off?",
+    "Speaker 2": "Yes, I’ve thought about it, but I’m not sure when would be a good time to actually take a day off.",
+    "label": "verification"
+  },
+  {
+    "Speaker 1": "Do you know how to get to the venue?",
+    "Speaker 2": "Yes, it’s just a few blocks from here, straight down this street and then around the corner.",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Are there any events I need to attend tomorrow?",
+    "Speaker 2": "Yes, you have a team meeting at 10 in the morning and a client call at 3 in the afternoon.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Can you tell me what the report includes?",
+    "Speaker 2": "Yes, it includes a summary of our findings, the data analysis, and the main recommendations.",
+    "label": "permission"
+  },
+  {
+    "Speaker 1": "Does anyone have any conflicts in the schedule?",
+    "Speaker 2": "Yes, I do have a conflict in the schedule.",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Have you thought about the potential risks?",
+    "Speaker 2": "Yes, I have. The main risks are delays in the timeline and going over budget, so we’ll need a solid backup plan.",
+    "label": "verification"
+  },
+  {
+    "Speaker 1": "Do you know who to ask for permissions?",
+    "Speaker 2": "Yes, you should ask the department manager for permissions.",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Is there a way to resolve this issue?",
+    "Speaker 2": "Yes, there is. You can resolve it by restarting the app and then reinstalling it if the problem continues.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Can you tell me what the solution is?",
+    "Speaker 2": "Yes, the solution is to divide both sides by 3, which gives you x equals 4.",
+    "label": "permission"
+  },
+  {
+    "Speaker 1": "Are there any plans for the weekend?",
+    "Speaker 2": "Yes, I’m planning to hang out with some friends and maybe catch a movie.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Have you checked the latest updates?",
+    "Speaker 2": "Yes, I have. They mostly cover minor bug fixes and a couple of small performance improvements.",
+    "label": "verification"
+  },
+  {
+    "Speaker 1": "Do you know what the new policy states?",
+    "Speaker 2": "Yes, it says we need to submit our reports by Friday each week and get manager approval before making any schedule changes.",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Is there any feedback from the clients?",
+    "Speaker 2": "Yes, they’ve shared some feedback. Overall they’re satisfied, but they mentioned a few areas where we can improve.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Can you tell me what this document is for?",
+    "Speaker 2": "Yes, it explains the new company policies and how they affect your role.",
+    "label": "permission"
+  },
+  {
+    "Speaker 1": "Are there any problems with the shipment?",
+    "Speaker 2": "Yes, there are problems. A few boxes were damaged in transit, and some items are missing from the shipment.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Have you thought about the new design?",
+    "Speaker 2": "Yes, I have. I’m thinking we should simplify the layout and use a cleaner color scheme.",
+    "label": "verification"
+  },
+  {
+    "Speaker 1": "Do you know which tickets we should buy?",
+    "Speaker 2": "Yes, we should get the standard admission tickets for the main exhibit.",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Is there a deadline for submissions?",
+    "Speaker 2": "Yes, the deadline is at the end of this month.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Can you tell me how to improve this?",
+    "Speaker 2": "Yes, you could improve it by making your main point clearer and tightening up any extra wording.",
+    "label": "permission"
+  },
+  {
+    "Speaker 1": "Are there any restrictions on this policy?",
+    "Speaker 2": "Yes, there are. For example, it only applies to full-time employees and doesn’t cover pre-existing conditions.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Have you checked the server status?",
+    "Speaker 2": "Yes, I checked it a few minutes ago and the server is running normally.",
+    "label": "verification"
+  },
+  {
+    "Speaker 1": "Do you know where to find the manual?",
+    "Speaker 2": "Yes, it’s in the shared drive under “Documents,” in the “Manuals” folder.",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Is there any reason for the increase?",
+    "Speaker 2": "Yes, the increase is due to higher material costs and updated supplier rates.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Can you tell me who made this request?",
+    "Speaker 2": "Yes, it was made by our project manager, Alex.",
+    "label": "permission"
+  },
+  {
+    "Speaker 1": "Are there any new features in the update?",
+    "Speaker 2": "Yes, there are. They added a new dark mode and improved the performance in this update.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Have you considered the employee feedback?",
+    "Speaker 2": "Yes, I have considered it, and I’m planning to incorporate their main concerns into the next revision.",
+    "label": "verification"
+  },
+  {
+    "Speaker 1": "Do you know why he is late?",
+    "Speaker 2": "Yes, he got stuck in traffic on the way here.",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Is there a reason for his absence?",
+    "Speaker 2": "Yes, he’s out today because he’s not feeling well.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Can you tell me when the shift starts?",
+    "Speaker 2": "Yes, it starts at 9 a.m.",
+    "label": "permission"
+  },
+  {
+    "Speaker 1": "Are there any precautions we should take?",
+    "Speaker 2": "Yes, there are a few precautions. Make sure to use the recommended protective gear and let us know right away if anything feels off or unusual.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Have you checked the security settings?",
+    "Speaker 2": "Yes, I have checked them and everything looks properly configured.",
+    "label": "verification"
+  },
+  {
+    "Speaker 1": "Do you know which restaurant is best?",
+    "Speaker 2": "Yes, I’d say the best one is Bella Italia, their food and service are consistently great.",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Is there an alternative route?",
+    "Speaker 2": "Yes, you can take the side road through Oak Street instead of staying on the main highway.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Can you tell me who your supervisor is?",
+    "Speaker 2": "Yes, my supervisor is Jordan Lee.",
+    "label": "permission"
+  },
+  {
+    "Speaker 1": "Are there any plans for expansion?",
+    "Speaker 2": "Yes, we’re planning to expand, including adding new locations and increasing our service offerings.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Have you thought about the consequences?",
+    "Speaker 2": "Yes, I have. I know it could really affect our schedule and cost us a lot if it doesn’t work out.",
+    "label": "verification"
+  },
+  {
+    "Speaker 1": "Do you know if the report is ready?",
+    "Speaker 2": "Yes, it’s ready now.",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Do we have any plans tomorrow?",
+    "Speaker 2": "Yes, we do. We’re meeting your parents for lunch tomorrow.",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Can you tell me where the documents are?",
+    "Speaker 2": "Yes, they’re in the top drawer of the filing cabinet by your desk.",
+    "label": "permission"
+  },
+  {
+    "Speaker 1": "Are there any days when you're free?",
+    "Speaker 2": "Yes, I’m usually free on weekends, especially Saturday afternoons.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Have you checked the maintenance schedule?",
+    "Speaker 2": "Yes, I checked it earlier. The next maintenance is scheduled for Friday morning.",
+    "label": "verification"
+  },
+  {
+    "Speaker 1": "Do you know how to troubleshoot this?",
+    "Speaker 2": "Yes, I can help. What exactly is going wrong with it?",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Is there an update on the shipment?",
+    "Speaker 2": "Yes, it shipped out this morning and is expected to arrive by Friday.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Can you tell me who to reach out to?",
+    "Speaker 2": "Yes, you should reach out to the HR department first, and they can direct you to the right person.",
+    "label": "permission"
+  },
+  {
+    "Speaker 1": "Are there any new developments?",
+    "Speaker 2": "Yes, there are. We’ve made some progress and have a few updates since the last time we talked.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Have you thought about the new offer?",
+    "Speaker 2": "Yes, I have, and I’m leaning toward accepting it, but I still have a couple of details I want to clarify.",
+    "label": "verification"
+  },
+  {
+    "Speaker 1": "Do you know where the files are stored?",
+    "Speaker 2": "Yes, they’re stored on the shared drive in the “Projects” folder.",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Is there any background information?",
+    "Speaker 2": "Yes, there is some background information. It covers the main context and key details you need to understand the situation.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Can you tell me why they postponed?",
+    "Speaker 2": "Yes, they postponed because the main speaker had a scheduling conflict and couldn’t make it.",
+    "label": "permission"
+  },
+  {
+    "Speaker 1": "Are there any concerns with the plan?",
+    "Speaker 2": "Yes, there are. The timeline feels a bit too tight, and I’m also worried we don’t have enough resources allocated to hit all the milestones.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Have you checked the event schedule?",
+    "Speaker 2": "Yes, I checked it. The keynote starts at 10, then the workshops run in the afternoon.",
+    "label": "verification"
+  },
+  {
+    "Speaker 1": "Do you know where they went?",
+    "Speaker 2": "Yes, they went over to the cafeteria a few minutes ago.",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Is there any feedback from the board?",
+    "Speaker 2": "Yes, they shared some initial feedback. Overall they’re interested, but they’d like more detail on the budget and timeline before moving forward.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Can you tell me when it will be ready?",
+    "Speaker 2": "Yes, it should be ready in about an hour.",
+    "label": "permission"
+  },
+  {
+    "Speaker 1": "Can you tell me why the meeting was rescheduled?",
+    "Speaker 2": "Yes, it was rescheduled because several key people couldn’t make the original time.",
+    "label": "permission"
+  },
+  {
+    "Speaker 1": "Have you thought about the new strategy for sales?",
+    "Speaker 2": "Yes, I have. I’m thinking we should focus more on existing clients and add some targeted online campaigns.",
+    "label": "verification"
+  },
+  {
+    "Speaker 1": "Do you know who approved the budget changes?",
+    "Speaker 2": "Yes, it was approved by Karen from the finance team.",
+    "label": "knowledge"
+  },
+  {
+    "Speaker 1": "Is there a reason the deadline was moved up?",
+    "Speaker 2": "Yes, the client requested that we deliver earlier, so we had to move the deadline up.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Can you tell me what was discussed in the meeting?",
+    "Speaker 2": "Yes, we went over the project timeline, assigned tasks to each team member, and discussed the upcoming deadlines.",
+    "label": "permission"
+  },
+  {
+    "Speaker 1": "Are there any updates on the project status?",
+    "Speaker 2": "Yes, there are. We finished the initial testing phase yesterday and are now working on fixing the main issues we found.",
+    "label": "existential"
+  },
+  {
+    "Speaker 1": "Do you know why the server is down?",
+    "Speaker 2": "Yes, it’s down because we’re running a scheduled maintenance update right now.",
+    "label": "knowledge"
+  }
+]
